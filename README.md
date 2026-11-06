@@ -7,7 +7,7 @@ report that provides a clear picture of its operational and financial performanc
 
 ## INTRODUCTION 
 
-![]()
+![](home.png)
 Welcome to our first module on programming. In this module, we will
 be discussing the nuts and bolts of the Python programming language
 ranging from the very basic to more advanced topics.
