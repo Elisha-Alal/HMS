@@ -1,0 +1,1001 @@
+Patient ID,Patient Name,Age,Gender,Admission Date,Discharge Date,Department,Diagnosis,Total Bill Amount,Insurance Coverage %,Payment Status,Age Category
+PAT-3001,Thomas Martin,57,Male,07/15/2024,07/23/2024,Cardiology,Atrial Fibrillation,"$15,359.41",60%,Paid,BTW 51 &65
+PAT-3002,Betty Thompson,62,Female,03/13/2025,03/23/2025,Cardiology,Angina,"$21,896.60",80%,Pending,BTW 51 &65
+PAT-3003,Lisa Rodriguez,82,Female,04/05/2024,04/08/2024,Emergency,Abdominal Pain,"$6,404.86",0%,Partially Paid,66 & ABOVE
+PAT-3004,Donna Jones,29,Female,10/23/2024,10/24/2024,Emergency,Concussion,"$1,001.68",90%,Pending,BTW 18 & 35
+PAT-3005,Michael Walker,65,Male,11/25/2024,12/01/2024,General,Flu Complications,"$4,022.42",80%,Pending,BTW 51 &65
+PAT-3006,Kenneth Lewis,53,Male,07/21/2024,07/28/2024,General,Diabetes Management,"$6,621.96",50%,Partially Paid,BTW 51 &65
+PAT-3007,Linda Smith,46,Female,02/09/2024,02/13/2024,Cardiology,Arrhythmia,"$7,676.36",7000%,Partially Paid,BTW 36 &50
+PAT-3008,Susan Garcia,21,Female,02/24/2024,02/27/2024,Emergency,Severe Allergic Reaction,"$7,381.69",80%,Pending,BTW 18 & 35
+PAT-3009,James Jones,62,Male,11/11/2024,11/17/2024,General,Anemia,"$5,206.40",80%,Pending,BTW 51 &65
+PAT-3010,Christopher Johnson,59,Male,08/05/2025,08/06/2025,Emergency,Severe Allergic Reaction,"$2,498.98",50%,Pending,BTW 51 &65
+PAT-3011,Daniel Thomas,7,Male,11/06/2025,11/08/2025,Pediatrics,RSV,"$2,096.73",70%,Paid,UNDER 18
+PAT-3012,Sandra Smith,85,Female,03/03/2025,03/08/2025,General,Dehydration,"$4,619.61",70%,Pending,66 & ABOVE
+PAT-3013,Michael Smith,40,Male,07/27/2024,07/29/2024,Emergency,Abdominal Pain,"$3,367.87",90%,Paid,BTW 36 &50
+PAT-3014,Thomas Taylor,24,Male,08/20/2024,08/22/2024,General,Diabetes Management,"$2,287.25",60%,Paid,BTW 18 & 35
+PAT-3015,Jennifer Williams,67,Female,12/12/2025,12/21/2025,Orthopedics,Rotator Cuff Injury,"$12,489.51",100%,Paid,66 & ABOVE
+PAT-3016,Nancy Lee,70,Female,02/07/2025,02/13/2025,General,Diabetes Management,"$4,262.21",100%,Paid,66 & ABOVE
+PAT-3017,Kevin Miller,38,Male,08/24/2024,08/28/2024,General,Diabetes Management,"$5,523.81",70%,Pending,BTW 36 &50
+PAT-3018,Elizabeth Moore,81,Female,05/27/2024,05/29/2024,General,Flu Complications,"$1,097.76",80%,Paid,66 & ABOVE
+PAT-3019,Carol Rodriguez,35,Female,12/23/2024,12/29/2024,Neurology,Neuropathy,"$14,272.73",80%,Pending,BTW 18 & 35
+PAT-3020,Karen Hernandez,42,Female,05/27/2025,06/09/2025,Orthopedics,Knee Replacement,"$18,429.31",100%,Paid,BTW 36 &50
+PAT-3021,Michael Miller,36,Male,10/22/2025,10/28/2025,Orthopedics,ACL Tear,"$11,481.03",80%,Pending,BTW 36 &50
+PAT-3022,Karen Martinez,67,Female,02/11/2025,02/14/2025,Cardiology,Atrial Fibrillation,"$6,324.27",80%,Paid,66 & ABOVE
+PAT-3023,William Wilson,23,Male,11/17/2024,11/18/2024,Emergency,Burns,"$1,888.07",80%,Partially Paid,BTW 18 & 35
+PAT-3024,Ashley Young,66,Female,03/19/2024,03/27/2024,Cardiology,Atrial Fibrillation,"$21,654.18",70%,Paid,#N/A
+PAT-3025,Betty Wilson,57,Female,02/18/2025,02/21/2025,General,Gastritis,"$2,641.14",100%,Paid,BTW 51 &65
+PAT-3026,Steven Garcia,44,Male,06/20/2024,06/24/2024,General,Dehydration,"$5,522.03",0%,Partially Paid,BTW 36 &50
+PAT-3027,Paul Taylor,58,Male,06/03/2024,06/08/2024,Cardiology,Arrhythmia,"$8,789.32",90%,Pending,BTW 51 &65
+PAT-3028,Daniel Lopez,62,Male,01/25/2025,01/30/2025,Neurology,Multiple Sclerosis,"$7,969.42",100%,Paid,BTW 51 &65
+PAT-3029,Joseph Brown,52,Male,04/06/2025,04/12/2025,Orthopedics,Carpal Tunnel,"$7,929.71",90%,Paid,BTW 51 &65
+PAT-3030,Linda Wilson,35,Female,10/01/2024,10/04/2024,Emergency,Concussion,"$4,772.89",90%,Paid,BTW 18 & 35
+PAT-3031,Emily Moore,79,Female,06/23/2024,06/26/2024,Cardiology,Heart Failure,"$6,826.49",80%,Paid,66 & ABOVE
+PAT-3032,Sarah Wilson,69,Female,03/20/2024,03/22/2024,General,Flu Complications,"$2,177.78",90%,Partially Paid,66 & ABOVE
+PAT-3033,Nancy Clark,21,Female,05/21/2025,05/23/2025,Emergency,Concussion,"$3,527.30",0%,Partially Paid,BTW 18 & 35
+PAT-3034,Kevin Clark,49,Male,10/15/2025,10/16/2025,Emergency,Concussion,"$1,184.01",100%,Paid,BTW 36 &50
+PAT-3035,Joseph Williams,61,Male,03/21/2025,03/26/2025,Cardiology,Hypertension,"$10,760.65",100%,Paid,BTW 51 &65
+PAT-3036,Jennifer Jackson,32,Female,08/09/2025,08/14/2025,General,Pneumonia,"$7,422.15",60%,Pending,BTW 18 & 35
+PAT-3037,Elizabeth Rodriguez,7,Female,06/03/2025,06/08/2025,Pediatrics,Asthma,"$3,623.14",50%,Paid,UNDER 18
+PAT-3038,Mark Miller,7,Male,12/10/2024,12/11/2024,Pediatrics,Tonsillitis,$946.04,90%,Pending,UNDER 18
+PAT-3039,Kenneth Martinez,4,Male,10/22/2025,10/25/2025,Pediatrics,Ear Infection,"$3,976.01",60%,Partially Paid,UNDER 18
+PAT-3040,Karen Young,81,Female,12/17/2024,12/26/2024,Cardiology,Atrial Fibrillation,"$26,928.32",70%,Partially Paid,66 & ABOVE
+PAT-3041,Dorothy Ramirez,81,Female,02/13/2025,02/18/2025,Cardiology,Heart Failure,"$7,203.24",70%,Paid,66 & ABOVE
+PAT-3042,Donna Williams,14,Female,11/18/2025,11/22/2025,Pediatrics,Allergic Reaction,"$5,685.06",80%,Paid,UNDER 18
+PAT-3043,Nancy Harris,73,Female,09/05/2025,09/08/2025,Orthopedics,Hip Fracture,"$4,949.06",50%,Paid,66 & ABOVE
+PAT-3044,William Wilson,50,Male,12/12/2024,12/16/2024,Orthopedics,ACL Tear,"$5,586.28",90%,Paid,BTW 36 &50
+PAT-3045,Michelle Taylor,73,Female,07/17/2024,07/18/2024,General,Dehydration,$766.80,60%,Pending,66 & ABOVE
+PAT-3046,Elizabeth Rodriguez,60,Female,05/13/2024,05/26/2024,Orthopedics,Knee Replacement,"$28,480.18",70%,Paid,BTW 51 &65
+PAT-3047,Elizabeth Harris,37,Female,01/06/2025,01/08/2025,General,Pneumonia,"$1,098.91",70%,Pending,BTW 36 &50
+PAT-3048,David Wilson,54,Male,11/05/2025,11/15/2025,Orthopedics,Spinal Disc Herniation,"$22,377.12",80%,Paid,BTW 51 &65
+PAT-3049,Kevin Wilson,1,Male,09/10/2024,09/14/2024,Pediatrics,Tonsillitis,"$3,895.90",0%,Pending,UNDER 18
+PAT-3050,James Wilson,51,Male,09/20/2025,09/29/2025,Orthopedics,Spinal Disc Herniation,"$10,684.00",60%,Paid,BTW 51 &65
+PAT-3051,Jennifer Perez,23,Female,07/06/2024,07/10/2024,General,Diabetes Management,"$3,643.50",70%,Partially Paid,BTW 18 & 35
+PAT-3052,Mary Johnson,67,Female,10/10/2024,10/13/2024,Emergency,Abdominal Pain,"$5,702.96",80%,Paid,66 & ABOVE
+PAT-3053,Joseph Thomas,63,Male,09/05/2025,09/12/2025,Cardiology,Angina,"$18,049.65",80%,Paid,BTW 51 &65
+PAT-3054,Anthony Thomas,59,Male,04/04/2025,04/10/2025,Cardiology,Atrial Fibrillation,"$16,488.40",80%,Paid,BTW 51 &65
+PAT-3055,Donna Clark,64,Female,01/05/2025,01/13/2025,Neurology,Parkinson's Disease,"$18,217.14",50%,Partially Paid,BTW 51 &65
+PAT-3056,Andrew Jones,60,Male,11/12/2024,11/23/2024,Orthopedics,Knee Replacement,"$16,175.09",80%,Pending,BTW 51 &65
+PAT-3057,Jennifer Martinez,77,Female,03/21/2024,03/29/2024,Cardiology,Atrial Fibrillation,"$12,858.55",80%,Pending,66 & ABOVE
+PAT-3058,Mark Lewis,29,Male,05/05/2025,05/19/2025,Orthopedics,Knee Replacement,"$14,617.11",0%,Partially Paid,BTW 18 & 35
+PAT-3059,Mark Miller,77,Male,02/09/2024,02/16/2024,Cardiology,Coronary Artery Disease,"$8,848.16",90%,Paid,66 & ABOVE
+PAT-3060,Steven Garcia,38,Male,05/23/2024,05/25/2024,Emergency,Burns,"$4,529.29",60%,Partially Paid,BTW 36 &50
+PAT-3061,Jessica Thomas,43,Female,11/12/2024,11/14/2024,General,Dehydration,"$1,655.08",80%,Paid,BTW 36 &50
+PAT-3062,Joshua Lee,16,Male,04/29/2025,04/30/2025,Pediatrics,Tonsillitis,"$1,165.37",80%,Pending,UNDER 18
+PAT-3063,Linda Lopez,47,Female,04/24/2025,04/28/2025,Cardiology,Coronary Artery Disease,"$5,020.34",80%,Paid,BTW 36 &50
+PAT-3064,Jennifer Jackson,5,Female,04/23/2024,04/26/2024,Pediatrics,Ear Infection,"$4,344.45",100%,Paid,UNDER 18
+PAT-3065,Betty Garcia,40,Female,10/12/2025,10/21/2025,Cardiology,Coronary Artery Disease,"$11,900.88",80%,Pending,BTW 36 &50
+PAT-3066,Kenneth Wilson,67,Male,01/24/2025,02/02/2025,Neurology,Multiple Sclerosis,"$12,380.25",80%,Paid,66 & ABOVE
+PAT-3067,Daniel Anderson,63,Male,11/25/2025,11/29/2025,Cardiology,Hypertension,"$9,509.74",90%,Paid,BTW 51 &65
+PAT-3068,Jessica Young,60,Female,03/15/2025,03/19/2025,Neurology,Parkinson's Disease,"$6,803.88",80%,Paid,BTW 51 &65
+PAT-3069,Michelle Lee,67,Female,05/24/2024,06/04/2024,Orthopedics,Knee Replacement,"$23,530.58",80%,Partially Paid,66 & ABOVE
+PAT-3070,Joseph Johnson,83,Male,04/05/2025,04/06/2025,Emergency,Severe Allergic Reaction,"$1,108.28",50%,Paid,66 & ABOVE
+PAT-3071,Paul White,69,Male,12/22/2025,12/29/2025,Cardiology,Arrhythmia,"$15,858.97",80%,Paid,66 & ABOVE
+PAT-3072,Andrew Young,66,Male,01/19/2025,02/02/2025,Orthopedics,Carpal Tunnel,"$24,022.14",80%,Partially Paid,#N/A
+PAT-3073,Michelle Wilson,29,Female,10/21/2024,11/02/2024,Orthopedics,Carpal Tunnel,"$13,601.98",80%,Pending,BTW 18 & 35
+PAT-3074,Kenneth White,48,Male,04/23/2024,05/02/2024,Neurology,Stroke,"$11,054.91",80%,Paid,BTW 36 &50
+PAT-3075,Matthew Clark,71,Male,11/25/2025,11/28/2025,Emergency,Abdominal Pain,"$4,292.29",70%,Paid,66 & ABOVE
+PAT-3076,Elizabeth Lewis,58,Female,11/08/2025,11/17/2025,Cardiology,Coronary Artery Disease,"$15,148.04",100%,Paid,BTW 51 &65
+PAT-3077,Mary Thomas,31,Female,04/01/2025,04/08/2025,Neurology,Parkinson's Disease,"$12,486.34",60%,Pending,BTW 18 & 35
+PAT-3078,Elizabeth Rodriguez,6,Female,11/25/2025,11/30/2025,Pediatrics,Ear Infection,"$6,755.47",90%,Paid,UNDER 18
+PAT-3079,Michelle Perez,54,Female,09/03/2025,09/05/2025,Emergency,Fracture,"$2,919.13",100%,Paid,BTW 51 &65
+PAT-3080,Betty Walker,40,Female,07/05/2025,07/19/2025,Orthopedics,Knee Replacement,"$30,241.53",100%,Paid,BTW 36 &50
+PAT-3081,Sarah Jackson,70,Female,07/10/2024,07/17/2024,Cardiology,Hypertension,"$12,489.15",0%,Pending,66 & ABOVE
+PAT-3082,Jessica Thompson,34,Female,02/01/2024,02/07/2024,Orthopedics,Hip Fracture,"$12,813.71",70%,Paid,BTW 18 & 35
+PAT-3083,Elizabeth Perez,62,Female,04/26/2024,05/01/2024,Orthopedics,Hip Fracture,"$13,205.04",70%,Paid,BTW 51 &65
+PAT-3084,Paul Harris,83,Male,12/22/2025,12/29/2025,General,Flu Complications,"$3,620.28",80%,Paid,66 & ABOVE
+PAT-3085,Jessica White,76,Female,08/20/2024,08/27/2024,General,Anemia,"$7,803.54",70%,Pending,66 & ABOVE
+PAT-3086,Betty Moore,50,Female,01/02/2025,01/10/2025,Neurology,Neuropathy,"$12,412.35",90%,Partially Paid,BTW 36 &50
+PAT-3087,Ashley Smith,39,Female,11/28/2025,11/30/2025,Emergency,Acute Appendicitis,"$2,598.06",80%,Paid,BTW 36 &50
+PAT-3088,Mark Moore,68,Male,03/04/2025,03/11/2025,General,Pneumonia,"$9,165.89",70%,Paid,66 & ABOVE
+PAT-3089,Carol Hernandez,55,Female,08/05/2025,08/07/2025,Emergency,Abdominal Pain,"$2,783.91",70%,Paid,BTW 51 &65
+PAT-3090,Barbara Taylor,71,Female,01/22/2025,01/31/2025,Cardiology,Angina,"$23,939.75",60%,Paid,66 & ABOVE
+PAT-3091,Lisa Brown,55,Female,05/01/2025,05/09/2025,Neurology,Parkinson's Disease,"$19,244.54",80%,Paid,BTW 51 &65
+PAT-3092,Barbara Walker,60,Female,07/17/2024,07/26/2024,Cardiology,Atrial Fibrillation,"$17,194.91",90%,Paid,BTW 51 &65
+PAT-3093,Thomas Hernandez,62,Male,08/26/2024,08/29/2024,General,UTI,"$3,707.77",80%,Paid,BTW 51 &65
+PAT-3094,Sarah Young,62,Female,08/26/2025,09/01/2025,Neurology,Epilepsy,"$11,445.42",80%,Pending,BTW 51 &65
+PAT-3095,David Anderson,52,Male,04/28/2025,04/30/2025,General,Flu Complications,"$1,587.61",90%,Pending,BTW 51 &65
+PAT-3096,Mark Thompson,32,Male,10/24/2024,10/26/2024,Emergency,Burns,"$4,946.29",80%,Paid,BTW 18 & 35
+PAT-3097,Daniel Garcia,15,Male,10/29/2024,11/01/2024,Pediatrics,Ear Infection,"$3,757.58",80%,Paid,UNDER 18
+PAT-3098,Michael Ramirez,61,Male,04/18/2025,04/23/2025,Cardiology,Hypertension,"$10,173.43",70%,Partially Paid,BTW 51 &65
+PAT-3099,Linda Robinson,1,Female,12/20/2024,12/25/2024,Pediatrics,Ear Infection,"$4,626.03",50%,Pending,UNDER 18
+PAT-3100,Jennifer Martinez,28,Female,11/16/2024,11/19/2024,General,Gastritis,"$3,159.60",80%,Paid,BTW 18 & 35
+PAT-3101,Matthew Williams,78,Male,02/04/2024,02/07/2024,Emergency,Severe Allergic Reaction,"$6,630.70",90%,Paid,66 & ABOVE
+PAT-3102,Paul Robinson,51,Male,04/10/2024,04/19/2024,Neurology,Neuropathy,"$17,220.65",70%,Partially Paid,BTW 51 &65
+PAT-3103,David Walker,70,Male,02/25/2024,03/01/2024,Orthopedics,Carpal Tunnel,"$13,557.60",90%,Paid,66 & ABOVE
+PAT-3104,Daniel White,51,Male,04/11/2025,04/13/2025,General,UTI,"$1,460.86",70%,Partially Paid,BTW 51 &65
+PAT-3105,Daniel Walker,57,Male,01/12/2025,01/15/2025,Neurology,Epilepsy,"$5,152.58",0%,Paid,BTW 51 &65
+PAT-3106,Lisa Anderson,37,Female,07/27/2025,07/28/2025,Emergency,Concussion,$954.61,90%,Paid,BTW 36 &50
+PAT-3107,Steven Clark,59,Male,02/15/2025,02/21/2025,Cardiology,Hypertension,"$11,951.45",100%,Paid,BTW 51 &65
+PAT-3108,Daniel Anderson,2,Male,04/09/2024,04/11/2024,Pediatrics,Ear Infection,"$3,169.16",60%,Pending,UNDER 18
+PAT-3109,William Brown,55,Male,05/07/2025,05/08/2025,General,Gastritis,"$1,178.75",70%,Paid,BTW 51 &65
+PAT-3110,Christopher Davis,69,Male,04/20/2024,04/23/2024,Emergency,Abdominal Pain,"$4,895.09",50%,Partially Paid,66 & ABOVE
+PAT-3111,Joseph Williams,2,Male,10/15/2024,10/16/2024,Pediatrics,Asthma,$819.61,80%,Paid,UNDER 18
+PAT-3112,Sandra Jackson,40,Female,12/04/2024,12/06/2024,Emergency,Abdominal Pain,"$2,899.40",70%,Pending,BTW 36 &50
+PAT-3113,Sandra Moore,4,Female,01/05/2024,01/07/2024,Pediatrics,Ear Infection,"$2,638.05",90%,Pending,UNDER 18
+PAT-3114,Karen Anderson,19,Female,05/08/2024,05/11/2024,Emergency,Concussion,"$6,176.26",70%,Pending,BTW 18 & 35
+PAT-3115,Paul Lopez,29,Male,09/12/2025,09/15/2025,Orthopedics,Spinal Disc Herniation,"$4,035.23",80%,Paid,BTW 18 & 35
+PAT-3116,Lisa Johnson,36,Female,03/26/2024,03/28/2024,General,Gastritis,"$1,068.76",80%,Paid,BTW 36 &50
+PAT-3117,Kenneth Garcia,45,Male,06/17/2024,06/20/2024,Emergency,Acute Appendicitis,"$2,606.79",70%,Pending,BTW 36 &50
+PAT-3118,Emily Williams,2,Female,06/13/2025,06/15/2025,Pediatrics,RSV,"$2,856.34",100%,Pending,UNDER 18
+PAT-3119,Sandra Young,48,Female,07/05/2024,07/13/2024,Orthopedics,Carpal Tunnel,"$13,136.54",100%,Pending,BTW 36 &50
+PAT-3120,Robert Moore,32,Male,09/09/2025,09/15/2025,Orthopedics,ACL Tear,"$10,441.88",70%,Pending,BTW 18 & 35
+PAT-3121,Kenneth Perez,39,Male,08/25/2024,09/01/2024,General,Flu Complications,"$8,804.17",70%,Pending,BTW 36 &50
+PAT-3122,Kevin Lewis,14,Male,05/21/2024,05/26/2024,Pediatrics,Allergic Reaction,"$8,692.21",80%,Pending,UNDER 18
+PAT-3123,Christopher Lewis,77,Male,11/05/2024,11/10/2024,Cardiology,Atrial Fibrillation,"$8,942.35",0%,Paid,66 & ABOVE
+PAT-3124,Kenneth Williams,59,Male,05/09/2025,05/19/2025,Neurology,Migraine,"$17,584.49",100%,Partially Paid,BTW 51 &65
+PAT-3125,Betty Walker,84,Female,04/17/2024,04/18/2024,Emergency,Fracture,"$1,921.25",50%,Partially Paid,66 & ABOVE
+PAT-3126,Linda Walker,41,Female,08/11/2024,08/14/2024,Neurology,Migraine,"$6,966.69",70%,Pending,BTW 36 &50
+PAT-3127,Sarah Davis,4,Female,04/08/2024,04/12/2024,Pediatrics,Allergic Reaction,"$5,715.35",70%,Paid,UNDER 18
+PAT-3128,Jennifer Clark,48,Female,10/06/2025,10/09/2025,Emergency,Fracture,"$4,210.91",90%,Paid,BTW 36 &50
+PAT-3129,Sarah Hernandez,62,Female,03/02/2024,03/09/2024,Cardiology,Angina,"$11,082.93",50%,Pending,BTW 51 &65
+PAT-3130,Elizabeth Garcia,31,Female,11/29/2024,12/04/2024,General,Dehydration,"$6,234.49",100%,Pending,BTW 18 & 35
+PAT-3131,Karen Moore,65,Female,05/16/2025,05/26/2025,Neurology,Migraine,"$17,644.05",60%,Paid,BTW 51 &65
+PAT-3132,James Davis,80,Male,10/22/2024,10/31/2024,Neurology,Neuropathy,"$11,838.97",70%,Partially Paid,66 & ABOVE
+PAT-3133,Joshua Martin,9,Male,10/24/2024,10/27/2024,Pediatrics,Ear Infection,"$2,139.13",90%,Partially Paid,UNDER 18
+PAT-3134,Susan White,48,Female,05/24/2024,05/31/2024,Cardiology,Arrhythmia,"$10,657.18",100%,Paid,BTW 36 &50
+PAT-3135,Jessica Harris,83,Female,08/30/2025,09/05/2025,Cardiology,Coronary Artery Disease,"$17,707.36",90%,Paid,66 & ABOVE
+PAT-3136,James Brown,57,Male,11/23/2024,12/06/2024,Orthopedics,Carpal Tunnel,"$31,874.83",90%,Pending,BTW 51 &65
+PAT-3137,Jessica Lopez,50,Female,06/15/2024,06/21/2024,General,Dehydration,"$5,681.44",70%,Paid,BTW 36 &50
+PAT-3138,Mary Robinson,58,Female,07/03/2025,07/10/2025,Cardiology,Atrial Fibrillation,"$17,588.68",90%,Paid,BTW 51 &65
+PAT-3139,Matthew Davis,58,Male,04/02/2025,04/04/2025,General,UTI,"$1,113.62",80%,Paid,BTW 51 &65
+PAT-3140,Christopher Wilson,60,Male,06/22/2024,06/27/2024,General,UTI,"$3,222.62",90%,Pending,BTW 51 &65
+PAT-3141,Karen Williams,53,Female,07/08/2024,07/13/2024,General,Flu Complications,"$4,276.67",50%,Paid,BTW 51 &65
+PAT-3142,Jennifer Smith,37,Female,04/07/2025,04/11/2025,General,Dehydration,"$2,378.61",70%,Paid,BTW 36 &50
+PAT-3143,Matthew Garcia,52,Male,01/04/2024,01/05/2024,Emergency,Chest Pain,"$1,802.47",70%,Partially Paid,BTW 51 &65
+PAT-3144,Michelle Thomas,64,Female,05/02/2024,05/11/2024,Cardiology,Coronary Artery Disease,"$26,472.01",60%,Partially Paid,BTW 51 &65
+PAT-3145,Robert Miller,31,Male,07/23/2025,08/01/2025,Neurology,Migraine,"$15,209.42",80%,Pending,BTW 18 & 35
+PAT-3146,Lisa Rodriguez,54,Female,07/11/2025,07/12/2025,General,Dehydration,$683.93,0%,Pending,BTW 51 &65
+PAT-3147,Barbara Wilson,77,Female,03/31/2024,04/04/2024,General,Gastritis,"$2,163.62",60%,Paid,66 & ABOVE
+PAT-3148,Barbara Jones,28,Female,09/04/2025,09/07/2025,Emergency,Burns,"$7,033.75",90%,Paid,BTW 18 & 35
+PAT-3149,Lisa Williams,57,Female,12/21/2024,12/26/2024,Cardiology,Heart Failure,"$9,216.99",100%,Paid,BTW 51 &65
+PAT-3150,Jennifer Young,32,Female,05/01/2025,05/03/2025,General,Dehydration,"$1,561.35",90%,Partially Paid,BTW 18 & 35
+PAT-3151,Karen Smith,41,Female,07/11/2025,07/20/2025,Cardiology,Atrial Fibrillation,"$24,856.18",100%,Paid,BTW 36 &50
+PAT-3152,Mark Smith,43,Male,05/22/2025,05/24/2025,Emergency,Burns,"$2,493.05",90%,Paid,BTW 36 &50
+PAT-3153,Andrew Martinez,49,Male,04/18/2024,04/21/2024,Emergency,Severe Allergic Reaction,"$5,177.47",60%,Paid,BTW 36 &50
+PAT-3154,Betty Williams,75,Female,03/29/2025,04/06/2025,Orthopedics,Knee Replacement,"$12,122.80",80%,Paid,66 & ABOVE
+PAT-3155,Robert Jones,48,Male,09/07/2024,09/11/2024,Neurology,Parkinson's Disease,"$6,625.48",60%,Partially Paid,BTW 36 &50
+PAT-3156,David Jones,72,Male,07/23/2024,08/01/2024,Orthopedics,ACL Tear,"$17,423.45",70%,Partially Paid,66 & ABOVE
+PAT-3157,Richard Ramirez,65,Male,06/26/2024,07/05/2024,Cardiology,Angina,"$13,753.53",90%,Pending,BTW 51 &65
+PAT-3158,Matthew Williams,44,Male,09/26/2025,10/06/2025,Cardiology,Atrial Fibrillation,"$18,100.37",80%,Paid,BTW 36 &50
+PAT-3159,Linda Brown,48,Female,09/05/2024,09/12/2024,Orthopedics,Hip Fracture,"$16,172.66",70%,Pending,BTW 36 &50
+PAT-3160,Carol Thompson,43,Female,08/10/2024,08/17/2024,General,Anemia,"$7,133.08",90%,Pending,BTW 36 &50
+PAT-3161,Joseph Jackson,48,Male,12/22/2025,01/01/2026,Cardiology,Atrial Fibrillation,"$27,699.30",50%,Pending,BTW 36 &50
+PAT-3162,Richard Rodriguez,77,Male,07/02/2024,07/03/2024,Emergency,Abdominal Pain,"$1,403.37",80%,Pending,66 & ABOVE
+PAT-3163,Karen Smith,69,Female,05/05/2024,05/08/2024,Emergency,Fracture,"$3,350.67",80%,Pending,66 & ABOVE
+PAT-3164,Elizabeth Williams,52,Female,02/02/2024,02/04/2024,Emergency,Fracture,"$2,922.92",100%,Pending,BTW 51 &65
+PAT-3165,Lisa Garcia,67,Female,11/21/2024,11/23/2024,Emergency,Fracture,"$2,127.71",90%,Partially Paid,66 & ABOVE
+PAT-3166,Ashley Smith,75,Female,09/13/2025,09/22/2025,Cardiology,Coronary Artery Disease,"$15,507.09",90%,Paid,66 & ABOVE
+PAT-3167,Steven Thomas,3,Male,08/15/2025,08/17/2025,Pediatrics,Bronchitis,"$2,767.57",50%,Paid,UNDER 18
+PAT-3168,Ashley Wilson,82,Female,07/31/2025,08/01/2025,Emergency,Abdominal Pain,"$1,998.09",80%,Paid,66 & ABOVE
+PAT-3169,Carol Garcia,16,Female,04/01/2025,04/06/2025,Pediatrics,Allergic Reaction,"$6,351.72",60%,Paid,UNDER 18
+PAT-3170,Richard Williams,47,Male,02/09/2025,02/11/2025,Emergency,Severe Allergic Reaction,"$2,177.35",80%,Paid,BTW 36 &50
+PAT-3171,Mary Martin,52,Female,06/12/2025,06/15/2025,Cardiology,Angina,"$4,484.95",80%,Paid,BTW 51 &65
+PAT-3172,Richard Jones,81,Male,08/28/2024,08/30/2024,Emergency,Acute Appendicitis,"$3,381.88",90%,Paid,66 & ABOVE
+PAT-3173,Brian Taylor,60,Male,06/23/2025,06/28/2025,Orthopedics,Carpal Tunnel,"$11,601.60",70%,Pending,BTW 51 &65
+PAT-3174,Jessica Hernandez,82,Female,03/01/2025,03/03/2025,Emergency,Abdominal Pain,"$2,198.17",90%,Paid,66 & ABOVE
+PAT-3175,Emily Robinson,34,Female,10/04/2025,10/17/2025,Orthopedics,Knee Replacement,"$35,611.43",70%,Paid,BTW 18 & 35
+PAT-3176,Christopher White,55,Male,05/21/2025,05/26/2025,Cardiology,Hypertension,"$8,093.35",100%,Partially Paid,BTW 51 &65
+PAT-3177,James White,69,Male,02/11/2024,02/19/2024,Neurology,Epilepsy,"$15,311.93",60%,Pending,66 & ABOVE
+PAT-3178,Lisa Thompson,59,Female,10/10/2024,10/13/2024,Emergency,Abdominal Pain,"$4,201.93",80%,Paid,BTW 51 &65
+PAT-3179,Ashley Walker,51,Female,10/29/2025,11/07/2025,Orthopedics,Spinal Disc Herniation,"$12,277.27",90%,Paid,BTW 51 &65
+PAT-3180,Jessica Ramirez,7,Female,05/08/2025,05/12/2025,Pediatrics,Ear Infection,"$4,150.83",70%,Pending,UNDER 18
+PAT-3181,Daniel Jackson,27,Male,01/09/2024,01/12/2024,General,UTI,"$2,123.81",100%,Paid,BTW 18 & 35
+PAT-3182,Emily Clark,56,Female,01/21/2025,02/03/2025,Orthopedics,ACL Tear,"$29,767.07",80%,Pending,BTW 51 &65
+PAT-3183,David White,8,Male,06/17/2025,06/22/2025,Pediatrics,Asthma,"$5,537.93",90%,Paid,UNDER 18
+PAT-3184,Joshua Garcia,77,Male,08/22/2025,08/28/2025,General,Diabetes Management,"$7,949.08",60%,Paid,66 & ABOVE
+PAT-3185,Robert Lewis,3,Male,12/25/2024,12/29/2024,Pediatrics,Ear Infection,"$6,607.88",70%,Paid,UNDER 18
+PAT-3186,Susan Thomas,12,Female,09/13/2024,09/16/2024,Pediatrics,Tonsillitis,"$4,728.71",50%,Paid,UNDER 18
+PAT-3187,Barbara White,83,Female,03/01/2024,03/09/2024,Cardiology,Angina,"$15,664.73",80%,Paid,66 & ABOVE
+PAT-3188,Betty Clark,53,Female,10/21/2025,10/25/2025,General,UTI,"$2,716.52",0%,Partially Paid,BTW 51 &65
+PAT-3189,Susan Miller,29,Female,12/17/2024,12/18/2024,General,Pneumonia,$716.18,80%,Paid,BTW 18 & 35
+PAT-3190,Jennifer Young,49,Female,03/22/2025,03/25/2025,Neurology,Parkinson's Disease,"$3,478.78",80%,Paid,BTW 36 &50
+PAT-3191,Mary Miller,48,Female,11/18/2025,11/24/2025,General,Dehydration,"$3,693.12",100%,Pending,BTW 36 &50
+PAT-3192,Barbara Garcia,80,Female,03/11/2024,03/12/2024,General,Pneumonia,"$1,441.21",0%,Paid,66 & ABOVE
+PAT-3193,Lisa Clark,52,Female,12/13/2024,12/19/2024,General,Pneumonia,"$8,378.45",70%,Pending,BTW 51 &65
+PAT-3194,Dorothy White,77,Female,10/20/2024,10/30/2024,Cardiology,Atrial Fibrillation,"$16,501.42",50%,Paid,66 & ABOVE
+PAT-3195,Linda Jackson,53,Female,05/21/2025,05/30/2025,Cardiology,Heart Failure,"$18,430.51",100%,Paid,BTW 51 &65
+PAT-3196,Anthony Thompson,42,Male,09/15/2024,09/18/2024,General,Gastritis,"$1,567.15",80%,Partially Paid,BTW 36 &50
+PAT-3197,Michelle Perez,61,Female,09/10/2024,09/11/2024,Emergency,Severe Allergic Reaction,$917.44,80%,Paid,BTW 51 &65
+PAT-3198,Nancy Harris,81,Female,12/03/2025,12/12/2025,Cardiology,Heart Failure,"$18,345.38",80%,Pending,66 & ABOVE
+PAT-3199,Ashley Moore,53,Female,11/30/2024,12/09/2024,Neurology,Neuropathy,"$19,211.24",90%,Paid,BTW 51 &65
+PAT-3200,Joshua Rodriguez,48,Male,05/28/2025,06/01/2025,Cardiology,Angina,"$10,336.58",100%,Paid,BTW 36 &50
+PAT-3201,Lisa Martin,64,Female,02/17/2025,02/24/2025,General,UTI,"$4,926.12",70%,Pending,BTW 51 &65
+PAT-3202,Susan Davis,80,Female,07/18/2024,07/24/2024,Neurology,Migraine,"$13,102.72",50%,Pending,66 & ABOVE
+PAT-3203,Anthony Anderson,56,Male,03/04/2024,03/11/2024,General,Diabetes Management,"$4,595.79",80%,Paid,BTW 51 &65
+PAT-3204,Kenneth Jones,63,Male,11/29/2024,12/02/2024,Emergency,Fracture,"$3,717.61",90%,Pending,BTW 51 &65
+PAT-3205,Daniel Young,43,Male,12/21/2025,01/03/2026,Orthopedics,Carpal Tunnel,"$33,810.44",90%,Paid,BTW 36 &50
+PAT-3206,Betty Williams,8,Female,01/03/2025,01/07/2025,Pediatrics,Asthma,"$4,115.83",50%,Paid,UNDER 18
+PAT-3207,Ashley Brown,56,Female,04/01/2025,04/07/2025,General,Diabetes Management,"$8,245.46",50%,Partially Paid,BTW 51 &65
+PAT-3208,Anthony Rodriguez,11,Male,02/16/2025,02/21/2025,Pediatrics,RSV,"$7,654.55",100%,Paid,UNDER 18
+PAT-3209,Joshua Moore,52,Male,02/18/2025,02/22/2025,Neurology,Parkinson's Disease,"$7,167.44",80%,Paid,BTW 51 &65
+PAT-3210,Barbara Young,53,Female,06/01/2025,06/03/2025,Emergency,Abdominal Pain,"$2,556.12",80%,Paid,BTW 51 &65
+PAT-3211,Christopher White,3,Male,08/05/2024,08/08/2024,Pediatrics,Ear Infection,"$3,139.43",80%,Paid,UNDER 18
+PAT-3212,William Perez,84,Male,03/15/2025,03/16/2025,Emergency,Abdominal Pain,"$1,893.98",90%,Paid,66 & ABOVE
+PAT-3213,Emily Clark,32,Female,06/26/2025,07/02/2025,Neurology,Parkinson's Disease,"$11,663.48",0%,Pending,BTW 18 & 35
+PAT-3214,Mary Taylor,39,Female,09/06/2024,09/09/2024,General,Pneumonia,"$1,596.88",50%,Partially Paid,BTW 36 &50
+PAT-3215,Michelle Garcia,49,Female,08/04/2024,08/09/2024,General,Anemia,"$4,111.79",80%,Paid,BTW 36 &50
+PAT-3216,Michael Perez,28,Male,03/24/2024,03/27/2024,Emergency,Abdominal Pain,"$6,606.32",80%,Paid,BTW 18 & 35
+PAT-3217,Carol White,53,Female,09/06/2024,09/18/2024,Neurology,Migraine,"$31,197.00",80%,Pending,BTW 51 &65
+PAT-3218,Christopher Perez,46,Male,01/01/2025,01/11/2025,Cardiology,Angina,"$23,891.30",90%,Paid,BTW 36 &50
+PAT-3219,David Moore,66,Male,11/17/2025,11/27/2025,Cardiology,Hypertension,"$18,293.13",60%,Partially Paid,#N/A
+PAT-3220,Emily Walker,28,Female,08/20/2024,08/23/2024,Emergency,Fracture,"$7,364.68",70%,Pending,BTW 18 & 35
+PAT-3221,Jessica Jackson,3,Female,06/26/2024,06/28/2024,Pediatrics,RSV,"$2,403.02",80%,Paid,UNDER 18
+PAT-3222,Thomas Miller,68,Male,11/29/2025,12/09/2025,Neurology,Multiple Sclerosis,"$22,054.65",80%,Pending,66 & ABOVE
+PAT-3223,Kevin Taylor,40,Male,12/22/2025,12/27/2025,General,Anemia,"$6,331.28",80%,Partially Paid,BTW 36 &50
+PAT-3224,Richard Robinson,63,Male,10/09/2024,10/19/2024,Cardiology,Coronary Artery Disease,"$27,345.03",100%,Pending,BTW 51 &65
+PAT-3225,Michelle Martinez,44,Female,05/02/2024,05/10/2024,Orthopedics,Rotator Cuff Injury,"$11,435.94",90%,Paid,BTW 36 &50
+PAT-3226,William Young,70,Male,09/18/2024,09/19/2024,Emergency,Chest Pain,$859.95,60%,Pending,66 & ABOVE
+PAT-3227,Richard Smith,1,Male,04/18/2024,04/21/2024,Pediatrics,Tonsillitis,"$2,590.21",90%,Pending,UNDER 18
+PAT-3228,Betty Thompson,48,Female,07/26/2025,07/27/2025,General,Anemia,$791.92,50%,Partially Paid,BTW 36 &50
+PAT-3229,Jessica Young,48,Female,08/10/2024,08/13/2024,Emergency,Acute Appendicitis,"$3,524.43",80%,Paid,BTW 36 &50
+PAT-3230,Joshua Taylor,43,Male,06/12/2024,06/14/2024,Orthopedics,Carpal Tunnel,"$4,464.59",0%,Partially Paid,BTW 36 &50
+PAT-3231,Karen Robinson,24,Female,03/19/2024,03/22/2024,Emergency,Chest Pain,"$4,867.61",70%,Paid,BTW 18 & 35
+PAT-3232,Daniel Harris,41,Male,11/09/2024,11/13/2024,Cardiology,Coronary Artery Disease,"$5,584.74",100%,Paid,BTW 36 &50
+PAT-3233,Sarah Perez,51,Female,05/05/2025,05/07/2025,Emergency,Abdominal Pain,"$4,718.74",80%,Pending,BTW 51 &65
+PAT-3234,Joseph Robinson,10,Male,02/14/2025,02/15/2025,Pediatrics,Bronchitis,"$1,605.56",80%,Pending,UNDER 18
+PAT-3235,Kenneth Anderson,75,Male,02/28/2025,03/01/2025,General,Diabetes Management,"$1,383.31",90%,Paid,66 & ABOVE
+PAT-3236,Ashley Williams,50,Female,03/31/2025,04/08/2025,Cardiology,Hypertension,"$19,135.11",80%,Paid,BTW 36 &50
+PAT-3237,Dorothy Taylor,46,Female,10/13/2024,10/17/2024,Orthopedics,ACL Tear,"$9,234.25",70%,Pending,BTW 36 &50
+PAT-3238,William Williams,83,Male,06/24/2024,06/29/2024,Cardiology,Hypertension,"$7,388.36",90%,Paid,66 & ABOVE
+PAT-3239,Ashley Thomas,17,Female,06/22/2024,06/25/2024,Pediatrics,Ear Infection,"$2,080.95",100%,Partially Paid,UNDER 18
+PAT-3240,Richard Young,70,Male,01/10/2024,01/12/2024,Orthopedics,Hip Fracture,"$5,457.97",80%,Paid,66 & ABOVE
+PAT-3241,Donna Jones,42,Female,08/18/2024,08/30/2024,Orthopedics,Knee Replacement,"$15,047.59",80%,Paid,BTW 36 &50
+PAT-3242,Susan Brown,16,Female,12/04/2024,12/06/2024,Pediatrics,Bronchitis,"$2,737.97",90%,Paid,UNDER 18
+PAT-3243,Thomas Miller,58,Male,12/24/2024,01/07/2025,Orthopedics,Knee Replacement,"$19,026.97",80%,Pending,BTW 51 &65
+PAT-3244,Matthew Clark,35,Male,02/01/2024,02/04/2024,Emergency,Fracture,"$4,955.50",90%,Pending,BTW 18 & 35
+PAT-3245,Karen Ramirez,58,Female,04/10/2025,04/12/2025,Emergency,Chest Pain,"$4,048.56",80%,Pending,BTW 51 &65
+PAT-3246,Joseph Perez,47,Male,12/04/2025,12/10/2025,General,UTI,"$6,918.60",80%,Paid,BTW 36 &50
+PAT-3247,Elizabeth Jackson,8,Female,12/24/2024,12/27/2024,Pediatrics,Tonsillitis,"$3,846.88",80%,Paid,UNDER 18
+PAT-3248,Carol Taylor,65,Female,04/29/2025,05/03/2025,General,Pneumonia,"$3,019.93",70%,Partially Paid,BTW 51 &65
+PAT-3249,Robert Walker,4,Male,11/28/2024,12/02/2024,Pediatrics,Allergic Reaction,"$3,543.70",90%,Pending,UNDER 18
+PAT-3250,Joshua Martin,55,Male,07/14/2025,07/16/2025,Orthopedics,Spinal Disc Herniation,"$2,354.49",60%,Partially Paid,BTW 51 &65
+PAT-3251,Ashley Thomas,47,Female,09/16/2025,09/19/2025,Emergency,Abdominal Pain,"$4,854.92",70%,Partially Paid,BTW 36 &50
+PAT-3252,Sandra Moore,7,Female,07/05/2024,07/07/2024,Pediatrics,Bronchitis,"$2,341.45",90%,Pending,UNDER 18
+PAT-3253,Andrew Walker,8,Male,11/05/2024,11/10/2024,Pediatrics,Ear Infection,"$6,634.75",100%,Pending,UNDER 18
+PAT-3254,Linda Hernandez,11,Female,04/23/2025,04/26/2025,Pediatrics,Tonsillitis,"$2,307.54",70%,Pending,UNDER 18
+PAT-3255,Mark Clark,29,Male,11/02/2025,11/07/2025,General,Dehydration,"$6,481.41",60%,Partially Paid,BTW 18 & 35
+PAT-3256,Brian Wilson,43,Male,01/05/2024,01/14/2024,Cardiology,Arrhythmia,"$14,839.54",70%,Partially Paid,BTW 36 &50
+PAT-3257,Emily Thomas,31,Female,11/21/2025,11/26/2025,Neurology,Multiple Sclerosis,"$8,724.32",80%,Pending,BTW 18 & 35
+PAT-3258,Sandra Brown,74,Female,04/17/2025,04/23/2025,General,Flu Complications,"$8,724.05",50%,Pending,66 & ABOVE
+PAT-3259,Dorothy Harris,60,Female,02/23/2025,03/02/2025,Cardiology,Coronary Artery Disease,"$12,277.20",100%,Paid,BTW 51 &65
+PAT-3260,Ashley Rodriguez,82,Female,06/22/2024,06/25/2024,Emergency,Abdominal Pain,"$7,304.79",90%,Paid,66 & ABOVE
+PAT-3261,Dorothy Ramirez,44,Female,01/25/2025,01/28/2025,Emergency,Severe Allergic Reaction,"$4,042.99",100%,Partially Paid,BTW 36 &50
+PAT-3262,David Rodriguez,25,Male,04/24/2024,04/27/2024,General,Gastritis,"$2,452.73",0%,Partially Paid,BTW 18 & 35
+PAT-3263,Karen Harris,15,Female,12/19/2025,12/21/2025,Pediatrics,Allergic Reaction,"$1,535.75",90%,Paid,UNDER 18
+PAT-3264,Michelle Wilson,39,Female,10/26/2024,10/27/2024,General,Pneumonia,$600.19,100%,Paid,BTW 36 &50
+PAT-3265,Emily Young,73,Female,08/27/2024,08/29/2024,Emergency,Burns,"$2,662.20",100%,Paid,66 & ABOVE
+PAT-3266,William Clark,58,Male,04/23/2025,04/26/2025,Emergency,Abdominal Pain,"$2,947.40",90%,Paid,BTW 51 &65
+PAT-3267,James Hernandez,58,Male,06/07/2025,06/10/2025,Orthopedics,Hip Fracture,"$6,487.43",80%,Paid,BTW 51 &65
+PAT-3268,Elizabeth White,78,Female,07/25/2025,07/29/2025,Cardiology,Coronary Artery Disease,"$5,274.80",80%,Paid,66 & ABOVE
+PAT-3269,Matthew Martin,56,Male,09/19/2025,09/25/2025,Cardiology,Atrial Fibrillation,"$17,770.45",100%,Paid,BTW 51 &65
+PAT-3270,Nancy Garcia,50,Female,11/28/2025,12/12/2025,Orthopedics,Hip Fracture,"$38,493.53",0%,Paid,BTW 36 &50
+PAT-3271,Betty Anderson,71,Female,03/15/2024,03/18/2024,General,Flu Complications,"$3,136.05",90%,Paid,66 & ABOVE
+PAT-3272,Emily Moore,41,Female,12/08/2025,12/18/2025,Cardiology,Heart Failure,"$28,492.22",90%,Paid,BTW 36 &50
+PAT-3273,Mark Martinez,47,Male,02/17/2025,02/25/2025,Cardiology,Hypertension,"$11,794.68",70%,Partially Paid,BTW 36 &50
+PAT-3274,Elizabeth Lewis,16,Female,12/08/2024,12/12/2024,Pediatrics,Ear Infection,"$5,980.76",80%,Paid,UNDER 18
+PAT-3275,Lisa Rodriguez,56,Female,09/12/2025,09/23/2025,Neurology,Migraine,"$16,835.15",100%,Paid,BTW 51 &65
+PAT-3276,Elizabeth Walker,69,Female,10/03/2025,10/07/2025,General,Pneumonia,"$2,837.18",100%,Partially Paid,66 & ABOVE
+PAT-3277,Kimberly White,39,Female,05/01/2025,05/08/2025,General,Diabetes Management,"$5,652.05",0%,Pending,BTW 36 &50
+PAT-3278,Michelle Hernandez,51,Female,02/26/2024,03/05/2024,Cardiology,Atrial Fibrillation,"$15,284.52",90%,Paid,BTW 51 &65
+PAT-3279,Michael Moore,22,Male,06/22/2024,06/27/2024,General,Anemia,"$6,837.91",80%,Pending,BTW 18 & 35
+PAT-3280,Emily Johnson,27,Female,07/15/2025,07/25/2025,Orthopedics,Knee Replacement,"$16,726.01",80%,Paid,BTW 18 & 35
+PAT-3281,Karen Davis,85,Female,09/12/2024,09/18/2024,Cardiology,Hypertension,"$17,937.11",70%,Partially Paid,66 & ABOVE
+PAT-3282,Anthony Wilson,33,Male,11/05/2024,11/19/2024,Orthopedics,Spinal Disc Herniation,"$27,571.59",90%,Paid,BTW 18 & 35
+PAT-3283,Emily Moore,83,Female,10/24/2024,10/30/2024,Cardiology,Hypertension,"$13,621.44",70%,Partially Paid,66 & ABOVE
+PAT-3284,Daniel Perez,54,Male,10/14/2024,10/19/2024,Neurology,Migraine,"$7,553.52",50%,Paid,BTW 51 &65
+PAT-3285,Michelle Harris,53,Female,11/16/2024,11/29/2024,Orthopedics,Hip Fracture,"$34,671.78",60%,Paid,BTW 51 &65
+PAT-3286,Robert Johnson,81,Male,07/30/2025,08/04/2025,Cardiology,Hypertension,"$13,674.29",80%,Paid,66 & ABOVE
+PAT-3287,Susan Harris,31,Female,02/18/2025,02/28/2025,Neurology,Parkinson's Disease,"$18,872.25",100%,Paid,BTW 18 & 35
+PAT-3288,Mark Jones,22,Male,12/22/2024,12/28/2024,General,Anemia,"$8,363.10",60%,Partially Paid,BTW 18 & 35
+PAT-3289,Thomas Young,1,Male,11/29/2025,12/02/2025,Pediatrics,Tonsillitis,"$3,886.44",90%,Paid,UNDER 18
+PAT-3290,Joshua Johnson,52,Male,09/29/2025,10/01/2025,General,Gastritis,"$2,780.94",80%,Paid,BTW 51 &65
+PAT-3291,Joshua Clark,11,Male,04/17/2024,04/18/2024,Pediatrics,RSV,"$1,277.56",70%,Pending,UNDER 18
+PAT-3292,Kimberly Rodriguez,6,Female,02/21/2024,02/24/2024,Pediatrics,Allergic Reaction,"$2,921.29",50%,Partially Paid,UNDER 18
+PAT-3293,Nancy Johnson,74,Female,07/13/2024,07/16/2024,Emergency,Concussion,"$4,516.54",70%,Pending,66 & ABOVE
+PAT-3294,Michelle Martin,37,Female,03/21/2024,04/03/2024,Orthopedics,Hip Fracture,"$15,943.22",80%,Paid,BTW 36 &50
+PAT-3295,Michelle Lee,84,Female,05/31/2024,06/03/2024,Cardiology,Angina,"$6,113.00",80%,Paid,66 & ABOVE
+PAT-3296,Richard Young,70,Male,08/03/2024,08/06/2024,Emergency,Severe Allergic Reaction,"$4,356.16",0%,Paid,66 & ABOVE
+PAT-3297,Thomas Walker,18,Male,05/17/2025,05/20/2025,Emergency,Abdominal Pain,"$2,810.17",90%,Paid,BTW 18 & 35
+PAT-3298,Kimberly Smith,41,Female,09/24/2024,09/28/2024,General,Gastritis,"$3,049.69",60%,Paid,BTW 36 &50
+PAT-3299,Betty Robinson,70,Female,04/16/2025,04/19/2025,General,Gastritis,"$2,096.49",60%,Pending,66 & ABOVE
+PAT-3300,Elizabeth Brown,44,Female,09/05/2025,09/10/2025,Orthopedics,Carpal Tunnel,"$12,341.99",70%,Paid,BTW 36 &50
+PAT-3301,Anthony Garcia,31,Male,08/13/2025,08/16/2025,Emergency,Chest Pain,"$3,445.79",90%,Paid,BTW 18 & 35
+PAT-3302,Barbara Davis,68,Female,04/13/2024,04/16/2024,Cardiology,Hypertension,"$4,176.93",0%,Paid,66 & ABOVE
+PAT-3303,William Rodriguez,50,Male,12/28/2025,01/02/2026,Cardiology,Heart Failure,"$10,022.50",70%,Pending,BTW 36 &50
+PAT-3304,Robert Lee,57,Male,02/20/2024,02/27/2024,Neurology,Parkinson's Disease,"$13,346.03",60%,Paid,BTW 51 &65
+PAT-3305,Karen Williams,67,Female,09/12/2025,09/18/2025,Orthopedics,Carpal Tunnel,"$12,949.84",80%,Paid,66 & ABOVE
+PAT-3306,Barbara Clark,76,Female,03/28/2025,03/31/2025,Neurology,Neuropathy,"$5,780.36",90%,Partially Paid,66 & ABOVE
+PAT-3307,Matthew Anderson,25,Male,09/28/2025,10/07/2025,Orthopedics,Carpal Tunnel,"$12,079.50",60%,Pending,BTW 18 & 35
+PAT-3308,Joseph Moore,40,Male,11/19/2024,11/26/2024,General,Dehydration,"$7,389.52",80%,Pending,BTW 36 &50
+PAT-3309,David Thomas,78,Male,08/19/2025,08/22/2025,Cardiology,Atrial Fibrillation,"$5,108.64",60%,Pending,66 & ABOVE
+PAT-3310,Daniel Johnson,30,Male,05/24/2024,05/26/2024,Emergency,Severe Allergic Reaction,"$3,176.54",80%,Paid,BTW 18 & 35
+PAT-3311,Anthony Johnson,54,Male,09/09/2024,09/17/2024,Orthopedics,Hip Fracture,"$17,049.40",100%,Partially Paid,BTW 51 &65
+PAT-3312,Carol Brown,67,Female,11/08/2025,11/09/2025,Emergency,Chest Pain,"$1,997.86",70%,Paid,66 & ABOVE
+PAT-3313,Mark Brown,43,Male,08/15/2024,08/19/2024,General,Anemia,"$4,991.59",0%,Partially Paid,BTW 36 &50
+PAT-3314,Elizabeth Taylor,70,Female,08/20/2024,08/29/2024,Neurology,Parkinson's Disease,"$17,095.62",90%,Paid,66 & ABOVE
+PAT-3315,Brian Lewis,64,Male,08/18/2025,08/20/2025,Emergency,Fracture,"$4,730.04",80%,Paid,BTW 51 &65
+PAT-3316,Joseph Perez,56,Male,09/24/2024,10/01/2024,General,Flu Complications,"$10,303.59",70%,Pending,BTW 51 &65
+PAT-3317,Anthony Walker,56,Male,06/04/2024,06/10/2024,General,Pneumonia,"$7,120.81",80%,Partially Paid,BTW 51 &65
+PAT-3318,Brian Lewis,38,Male,07/12/2025,07/13/2025,Emergency,Severe Allergic Reaction,"$1,418.29",80%,Paid,BTW 36 &50
+PAT-3319,Brian Ramirez,77,Male,04/23/2024,04/26/2024,Emergency,Acute Appendicitis,"$4,818.40",60%,Paid,66 & ABOVE
+PAT-3320,James Wilson,51,Male,02/21/2024,02/22/2024,Emergency,Abdominal Pain,"$1,333.29",70%,Paid,BTW 51 &65
+PAT-3321,Ashley Jackson,34,Female,03/27/2025,03/28/2025,Emergency,Acute Appendicitis,"$1,437.43",100%,Paid,BTW 18 & 35
+PAT-3322,James Thomas,64,Male,06/11/2025,06/14/2025,General,Gastritis,"$2,608.29",0%,Paid,BTW 51 &65
+PAT-3323,Susan Lee,8,Female,05/14/2024,05/18/2024,Pediatrics,Allergic Reaction,"$6,107.32",80%,Paid,UNDER 18
+PAT-3324,Betty Jones,5,Female,03/08/2024,03/09/2024,Pediatrics,Tonsillitis,$763.74,90%,Pending,UNDER 18
+PAT-3325,Lisa Martinez,3,Female,06/25/2025,06/30/2025,Pediatrics,Ear Infection,"$8,208.35",0%,Partially Paid,UNDER 18
+PAT-3326,Ashley Martin,26,Female,07/11/2024,07/25/2024,Orthopedics,Hip Fracture,"$20,575.84",80%,Pending,BTW 18 & 35
+PAT-3327,Kevin Lopez,1,Male,07/25/2025,07/28/2025,Pediatrics,Asthma,"$5,295.19",90%,Paid,UNDER 18
+PAT-3328,Betty Harris,35,Female,11/12/2025,11/21/2025,Orthopedics,Knee Replacement,"$23,024.56",70%,Pending,BTW 18 & 35
+PAT-3329,Linda Jackson,33,Female,05/05/2025,05/08/2025,Emergency,Chest Pain,"$7,452.68",70%,Paid,BTW 18 & 35
+PAT-3330,Matthew Clark,80,Male,03/03/2024,03/11/2024,Neurology,Epilepsy,"$10,908.13",60%,Paid,66 & ABOVE
+PAT-3331,Christopher Johnson,27,Male,04/23/2024,04/29/2024,General,Pneumonia,"$7,501.37",70%,Partially Paid,BTW 18 & 35
+PAT-3332,Sarah Davis,61,Female,04/24/2025,04/25/2025,Emergency,Chest Pain,"$1,264.69",90%,Paid,BTW 51 &65
+PAT-3333,Susan Martin,54,Female,05/08/2024,05/19/2024,Orthopedics,Knee Replacement,"$26,730.35",0%,Pending,BTW 51 &65
+PAT-3334,Michelle Garcia,57,Female,03/30/2025,04/02/2025,Neurology,Multiple Sclerosis,"$6,655.97",60%,Pending,BTW 51 &65
+PAT-3335,Matthew Garcia,63,Male,03/03/2024,03/11/2024,Cardiology,Hypertension,"$11,856.84",70%,Pending,BTW 51 &65
+PAT-3336,David Clark,45,Male,04/20/2025,04/21/2025,Emergency,Chest Pain,"$1,625.38",80%,Paid,BTW 36 &50
+PAT-3337,Andrew Moore,71,Male,12/05/2025,12/11/2025,Cardiology,Arrhythmia,"$10,880.84",80%,Paid,66 & ABOVE
+PAT-3338,Christopher Davis,69,Male,10/10/2025,10/11/2025,General,Pneumonia,"$1,151.51",90%,Pending,66 & ABOVE
+PAT-3339,Elizabeth Harris,43,Female,05/22/2024,05/29/2024,Cardiology,Arrhythmia,"$13,660.38",50%,Pending,BTW 36 &50
+PAT-3340,William Perez,21,Male,01/15/2025,01/19/2025,General,Pneumonia,"$5,372.91",90%,Paid,BTW 18 & 35
+PAT-3341,Kenneth Smith,16,Male,03/06/2024,03/09/2024,Pediatrics,Bronchitis,"$5,108.66",80%,Paid,UNDER 18
+PAT-3342,Sarah Robinson,72,Female,05/01/2025,05/04/2025,Emergency,Acute Appendicitis,"$4,730.36",90%,Paid,66 & ABOVE
+PAT-3343,Jennifer Lopez,57,Female,01/13/2025,01/16/2025,General,Anemia,"$4,389.91",80%,Paid,BTW 51 &65
+PAT-3344,Sandra Robinson,39,Female,09/06/2025,09/14/2025,Orthopedics,Knee Replacement,"$8,536.89",80%,Paid,BTW 36 &50
+PAT-3345,Kimberly White,12,Female,10/13/2024,10/18/2024,Pediatrics,Allergic Reaction,"$3,347.44",0%,Partially Paid,UNDER 18
+PAT-3346,Susan Jackson,57,Female,10/07/2025,10/13/2025,Cardiology,Coronary Artery Disease,"$15,565.46",70%,Pending,BTW 51 &65
+PAT-3347,Robert Martin,52,Male,11/18/2025,11/25/2025,General,Pneumonia,"$4,507.14",80%,Partially Paid,BTW 51 &65
+PAT-3348,Brian Robinson,62,Male,07/10/2025,07/17/2025,Cardiology,Atrial Fibrillation,"$10,788.07",70%,Pending,BTW 51 &65
+PAT-3349,Andrew Lewis,46,Male,05/19/2024,05/28/2024,Cardiology,Angina,"$26,034.08",80%,Paid,BTW 36 &50
+PAT-3350,Kenneth Taylor,44,Male,08/21/2024,08/29/2024,Cardiology,Hypertension,"$10,409.19",90%,Partially Paid,BTW 36 &50
+PAT-3351,Jennifer Hernandez,62,Female,08/02/2024,08/03/2024,Emergency,Chest Pain,"$1,428.80",80%,Pending,BTW 51 &65
+PAT-3352,Sarah Anderson,73,Female,05/22/2025,05/25/2025,Emergency,Fracture,"$6,491.42",0%,Partially Paid,66 & ABOVE
+PAT-3353,Mary Martinez,80,Female,03/20/2025,03/23/2025,Emergency,Acute Appendicitis,"$2,816.11",80%,Partially Paid,66 & ABOVE
+PAT-3354,Matthew Clark,12,Male,11/28/2025,12/03/2025,Pediatrics,Tonsillitis,"$6,337.74",60%,Pending,UNDER 18
+PAT-3355,Lisa Thomas,48,Female,04/16/2024,04/23/2024,General,Gastritis,"$8,162.88",60%,Paid,BTW 36 &50
+PAT-3356,Thomas Williams,69,Male,02/18/2025,02/20/2025,General,Diabetes Management,"$2,495.13",70%,Paid,66 & ABOVE
+PAT-3357,Ashley Martinez,16,Female,06/11/2024,06/12/2024,Pediatrics,Tonsillitis,"$1,054.14",50%,Pending,UNDER 18
+PAT-3358,Mary Ramirez,73,Female,03/30/2025,03/31/2025,Emergency,Burns,"$1,251.25",80%,Paid,66 & ABOVE
+PAT-3359,Kenneth Miller,53,Male,03/20/2025,03/26/2025,Cardiology,Hypertension,"$16,598.08",80%,Paid,BTW 51 &65
+PAT-3360,Emily Hernandez,46,Female,10/04/2024,10/08/2024,General,UTI,"$4,875.57",90%,Paid,BTW 36 &50
+PAT-3361,Paul Perez,53,Male,12/02/2025,12/07/2025,Neurology,Epilepsy,"$12,181.30",50%,Paid,BTW 51 &65
+PAT-3362,James Harris,59,Male,07/24/2025,07/25/2025,Emergency,Fracture,"$2,262.27",100%,Paid,BTW 51 &65
+PAT-3363,Kevin Thompson,77,Male,05/10/2025,05/16/2025,Neurology,Parkinson's Disease,"$15,249.23",60%,Paid,66 & ABOVE
+PAT-3364,Elizabeth Hernandez,21,Female,02/03/2024,02/06/2024,General,Gastritis,"$3,947.95",80%,Paid,BTW 18 & 35
+PAT-3365,Anthony White,59,Male,10/27/2024,11/09/2024,Orthopedics,Rotator Cuff Injury,"$35,549.13",100%,Pending,BTW 51 &65
+PAT-3366,Richard Lewis,2,Male,02/04/2025,02/08/2025,Pediatrics,Tonsillitis,"$7,038.14",70%,Partially Paid,UNDER 18
+PAT-3367,Andrew Williams,77,Male,11/10/2025,11/19/2025,Cardiology,Coronary Artery Disease,"$14,877.84",100%,Pending,66 & ABOVE
+PAT-3368,James Wilson,30,Male,07/07/2025,07/18/2025,Orthopedics,Rotator Cuff Injury,"$14,678.51",60%,Pending,BTW 18 & 35
+PAT-3369,Brian Garcia,42,Male,12/11/2025,12/13/2025,Emergency,Fracture,"$3,466.32",70%,Paid,BTW 36 &50
+PAT-3370,Joshua Miller,59,Male,08/26/2024,09/09/2024,Orthopedics,Carpal Tunnel,"$21,123.25",80%,Paid,BTW 51 &65
+PAT-3371,Robert Smith,7,Male,03/13/2025,03/18/2025,Pediatrics,Asthma,"$5,585.79",0%,Partially Paid,UNDER 18
+PAT-3372,Barbara Smith,37,Female,09/13/2024,09/18/2024,General,Gastritis,"$6,953.83",90%,Pending,BTW 36 &50
+PAT-3373,Sandra Jones,33,Female,01/02/2025,01/03/2025,Emergency,Severe Allergic Reaction,"$2,224.13",70%,Paid,BTW 18 & 35
+PAT-3374,Matthew Anderson,76,Male,04/21/2025,04/27/2025,Cardiology,Arrhythmia,"$11,111.41",70%,Paid,66 & ABOVE
+PAT-3375,Andrew Williams,31,Male,09/12/2024,09/19/2024,General,Anemia,"$8,312.57",70%,Paid,BTW 18 & 35
+PAT-3376,Richard Young,36,Male,10/30/2024,11/04/2024,General,UTI,"$4,633.50",90%,Paid,BTW 36 &50
+PAT-3377,Betty Young,29,Female,10/25/2024,10/28/2024,Orthopedics,ACL Tear,"$6,028.31",80%,Partially Paid,BTW 18 & 35
+PAT-3378,James Jackson,64,Male,04/03/2024,04/08/2024,Neurology,Multiple Sclerosis,"$6,224.81",70%,Partially Paid,BTW 51 &65
+PAT-3379,Richard Smith,44,Male,07/27/2024,08/07/2024,Orthopedics,Rotator Cuff Injury,"$18,959.16",60%,Paid,BTW 36 &50
+PAT-3380,Carol Robinson,77,Female,03/27/2024,03/29/2024,General,Flu Complications,"$2,123.39",80%,Paid,66 & ABOVE
+PAT-3381,Dorothy Hernandez,51,Female,08/31/2024,09/02/2024,Orthopedics,ACL Tear,"$4,043.37",100%,Paid,BTW 51 &65
+PAT-3382,Steven Martin,4,Male,01/13/2025,01/14/2025,Pediatrics,Ear Infection,$843.60,70%,Partially Paid,UNDER 18
+PAT-3383,Linda Hernandez,37,Female,12/21/2025,12/25/2025,General,Pneumonia,"$2,561.88",70%,Paid,BTW 36 &50
+PAT-3384,Sarah Lopez,21,Female,01/02/2024,01/03/2024,Emergency,Concussion,"$1,511.32",80%,Pending,BTW 18 & 35
+PAT-3385,Daniel Anderson,55,Male,09/30/2025,10/14/2025,Orthopedics,Rotator Cuff Injury,"$27,685.69",70%,Paid,BTW 51 &65
+PAT-3386,Matthew Martinez,24,Male,10/26/2024,10/30/2024,General,Gastritis,"$3,028.33",70%,Pending,BTW 18 & 35
+PAT-3387,Mark Walker,70,Male,04/04/2025,04/18/2025,Orthopedics,Knee Replacement,"$37,544.02",80%,Paid,66 & ABOVE
+PAT-3388,Christopher Clark,32,Male,06/01/2024,06/08/2024,Neurology,Parkinson's Disease,"$17,899.30",70%,Partially Paid,BTW 18 & 35
+PAT-3389,Joseph Lee,11,Male,12/19/2025,12/22/2025,Pediatrics,RSV,"$5,297.21",80%,Paid,UNDER 18
+PAT-3390,Steven Wilson,46,Male,01/14/2024,01/22/2024,Cardiology,Heart Failure,"$10,640.24",0%,Partially Paid,BTW 36 &50
+PAT-3391,Mary Martin,40,Female,12/10/2024,12/13/2024,Neurology,Neuropathy,"$3,660.71",70%,Partially Paid,BTW 36 &50
+PAT-3392,Jennifer Harris,42,Female,10/11/2025,10/17/2025,Neurology,Multiple Sclerosis,"$10,028.68",80%,Pending,BTW 36 &50
+PAT-3393,Karen Thompson,9,Female,01/05/2024,01/10/2024,Pediatrics,Allergic Reaction,"$7,238.61",50%,Pending,UNDER 18
+PAT-3394,Sarah Harris,29,Female,01/01/2024,01/02/2024,General,Anemia,$969.55,90%,Paid,BTW 18 & 35
+PAT-3395,Steven Young,63,Male,07/27/2024,08/06/2024,Cardiology,Angina,"$29,016.40",70%,Paid,BTW 51 &65
+PAT-3396,Dorothy Clark,15,Female,07/19/2025,07/23/2025,Pediatrics,Asthma,"$6,415.80",80%,Paid,UNDER 18
+PAT-3397,Anthony Lewis,54,Male,12/20/2024,12/25/2024,Cardiology,Heart Failure,"$12,816.46",50%,Paid,BTW 51 &65
+PAT-3398,Jennifer Miller,77,Female,10/17/2024,10/20/2024,Cardiology,Coronary Artery Disease,"$7,577.11",80%,Paid,66 & ABOVE
+PAT-3399,Robert White,35,Male,12/15/2024,12/16/2024,Emergency,Fracture,"$1,670.53",80%,Paid,BTW 18 & 35
+PAT-3400,Anthony Clark,58,Male,04/08/2024,04/16/2024,Orthopedics,Knee Replacement,"$19,956.13",100%,Paid,BTW 51 &65
+PAT-3401,Steven Thomas,73,Male,05/29/2024,05/31/2024,Emergency,Burns,"$2,111.68",90%,Paid,66 & ABOVE
+PAT-3402,Elizabeth Martin,40,Female,02/14/2024,02/20/2024,Orthopedics,Spinal Disc Herniation,"$9,466.90",70%,Partially Paid,BTW 36 &50
+PAT-3403,Sandra Lopez,42,Female,01/03/2024,01/13/2024,Neurology,Stroke,"$20,681.51",90%,Paid,BTW 36 &50
+PAT-3404,William Lewis,12,Male,04/03/2025,04/07/2025,Pediatrics,Allergic Reaction,"$2,556.54",100%,Paid,UNDER 18
+PAT-3405,William Ramirez,67,Male,03/08/2024,03/16/2024,Neurology,Neuropathy,"$20,496.01",100%,Pending,66 & ABOVE
+PAT-3406,Christopher Ramirez,1,Male,04/23/2024,04/24/2024,Pediatrics,RSV,"$1,269.22",90%,Paid,UNDER 18
+PAT-3407,Susan Jones,74,Female,08/23/2024,09/01/2024,Orthopedics,Rotator Cuff Injury,"$14,175.59",70%,Partially Paid,66 & ABOVE
+PAT-3408,Michelle Rodriguez,36,Female,07/07/2025,07/09/2025,Emergency,Chest Pain,"$2,258.07",80%,Paid,BTW 36 &50
+PAT-3409,Michael Lopez,53,Male,11/19/2025,11/20/2025,General,Pneumonia,"$1,471.29",80%,Paid,BTW 51 &65
+PAT-3410,Emily Thompson,7,Female,04/08/2025,04/12/2025,Pediatrics,RSV,"$4,671.33",70%,Paid,UNDER 18
+PAT-3411,Richard Anderson,56,Male,12/24/2025,12/27/2025,Emergency,Concussion,"$3,856.57",70%,Paid,BTW 51 &65
+PAT-3412,Sarah Lopez,42,Female,11/09/2025,11/18/2025,Cardiology,Hypertension,"$22,775.06",80%,Paid,BTW 36 &50
+PAT-3413,Ashley Lee,53,Female,03/24/2024,03/26/2024,Emergency,Severe Allergic Reaction,"$2,542.99",60%,Pending,BTW 51 &65
+PAT-3414,Karen Lewis,4,Female,07/02/2025,07/06/2025,Pediatrics,Asthma,"$7,044.38",90%,Paid,UNDER 18
+PAT-3415,Betty Ramirez,11,Female,04/05/2025,04/07/2025,Pediatrics,Allergic Reaction,"$3,402.40",90%,Paid,UNDER 18
+PAT-3416,Elizabeth Garcia,62,Female,09/05/2024,09/10/2024,Orthopedics,Spinal Disc Herniation,"$13,881.60",70%,Paid,BTW 51 &65
+PAT-3417,Thomas Anderson,29,Male,04/01/2025,04/03/2025,General,UTI,"$1,362.39",80%,Paid,BTW 18 & 35
+PAT-3418,Kenneth Lewis,2,Male,01/06/2024,01/11/2024,Pediatrics,Allergic Reaction,"$8,510.78",70%,Paid,UNDER 18
+PAT-3419,Kevin Wilson,67,Male,09/29/2024,10/02/2024,General,UTI,"$2,154.97",90%,Paid,66 & ABOVE
+PAT-3420,Jessica White,62,Female,05/16/2024,05/19/2024,General,UTI,"$1,950.00",80%,Pending,BTW 51 &65
+PAT-3421,Carol Lewis,72,Female,08/20/2024,08/25/2024,Orthopedics,Hip Fracture,"$5,004.03",100%,Paid,66 & ABOVE
+PAT-3422,Joseph Robinson,63,Male,03/25/2024,04/01/2024,Neurology,Parkinson's Disease,"$7,752.04",90%,Paid,BTW 51 &65
+PAT-3423,David Anderson,69,Male,02/09/2024,02/14/2024,Orthopedics,Carpal Tunnel,"$6,986.97",100%,Pending,66 & ABOVE
+PAT-3424,William Anderson,52,Male,11/05/2025,11/06/2025,Emergency,Chest Pain,"$1,744.21",80%,Pending,BTW 51 &65
+PAT-3425,Ashley Ramirez,28,Female,01/16/2024,01/29/2024,Orthopedics,Spinal Disc Herniation,"$23,326.29",60%,Paid,BTW 18 & 35
+PAT-3426,Donna Ramirez,51,Female,09/25/2025,10/02/2025,General,Diabetes Management,"$5,587.17",70%,Pending,BTW 51 &65
+PAT-3427,Emily Walker,46,Female,05/19/2025,06/01/2025,Orthopedics,Hip Fracture,"$19,329.24",80%,Paid,BTW 36 &50
+PAT-3428,Matthew Jones,46,Male,02/14/2025,02/22/2025,Cardiology,Atrial Fibrillation,"$20,311.28",0%,Pending,BTW 36 &50
+PAT-3429,Sandra Harris,73,Female,10/03/2025,10/06/2025,Emergency,Abdominal Pain,"$2,647.99",80%,Pending,66 & ABOVE
+PAT-3430,Linda Garcia,14,Female,12/14/2025,12/16/2025,Pediatrics,Tonsillitis,"$3,396.48",90%,Paid,UNDER 18
+PAT-3431,James Clark,82,Male,02/19/2024,02/26/2024,General,Gastritis,"$9,947.52",60%,Pending,66 & ABOVE
+PAT-3432,Lisa Jones,11,Female,06/15/2024,06/17/2024,Pediatrics,Ear Infection,"$2,103.42",60%,Pending,UNDER 18
+PAT-3433,Barbara Martinez,41,Female,07/03/2024,07/13/2024,Orthopedics,Carpal Tunnel,"$20,914.48",50%,Pending,BTW 36 &50
+PAT-3434,James Young,57,Male,08/06/2024,08/17/2024,Orthopedics,Carpal Tunnel,"$16,613.29",60%,Partially Paid,BTW 51 &65
+PAT-3435,Sarah Perez,62,Female,12/05/2024,12/18/2024,Orthopedics,Hip Fracture,"$23,037.14",70%,Paid,BTW 51 &65
+PAT-3436,Brian Rodriguez,23,Male,12/27/2024,12/28/2024,General,Pneumonia,$618.74,80%,Paid,BTW 18 & 35
+PAT-3437,Paul Clark,42,Male,10/22/2025,10/25/2025,General,Diabetes Management,"$3,292.07",50%,Paid,BTW 36 &50
+PAT-3438,Robert Lee,48,Male,01/01/2024,01/05/2024,General,Anemia,"$5,249.64",90%,Paid,BTW 36 &50
+PAT-3439,Michael Clark,71,Male,08/16/2025,08/21/2025,Orthopedics,ACL Tear,"$5,726.98",80%,Paid,66 & ABOVE
+PAT-3440,Andrew Garcia,16,Male,05/12/2024,05/14/2024,Pediatrics,Asthma,"$3,417.93",100%,Paid,UNDER 18
+PAT-3441,Linda Davis,73,Female,09/07/2024,09/14/2024,General,Flu Complications,"$4,075.70",100%,Paid,66 & ABOVE
+PAT-3442,Christopher Taylor,17,Male,02/19/2025,02/21/2025,Pediatrics,Asthma,"$1,245.26",100%,Paid,UNDER 18
+PAT-3443,Robert Rodriguez,49,Male,09/04/2025,09/05/2025,General,Gastritis,"$1,338.57",100%,Pending,BTW 36 &50
+PAT-3444,Elizabeth Brown,41,Female,04/14/2025,04/21/2025,Neurology,Migraine,"$11,778.46",60%,Partially Paid,BTW 36 &50
+PAT-3445,Kenneth Thomas,65,Male,01/18/2025,01/21/2025,Cardiology,Coronary Artery Disease,"$6,875.63",70%,Pending,BTW 51 &65
+PAT-3446,Joseph Walker,36,Male,06/25/2025,06/30/2025,General,Gastritis,"$4,520.00",90%,Paid,BTW 36 &50
+PAT-3447,Joseph Martin,47,Male,01/05/2024,01/16/2024,Orthopedics,Knee Replacement,"$11,719.07",80%,Paid,BTW 36 &50
+PAT-3448,Susan Thompson,74,Female,07/08/2025,07/19/2025,Neurology,Epilepsy,"$13,712.17",80%,Paid,66 & ABOVE
+PAT-3449,Kevin Lewis,73,Male,09/05/2024,09/06/2024,Emergency,Fracture,"$2,492.86",100%,Paid,66 & ABOVE
+PAT-3450,Thomas Hernandez,19,Male,06/24/2025,06/25/2025,Emergency,Concussion,"$1,867.11",80%,Paid,BTW 18 & 35
+PAT-3451,Daniel Perez,68,Male,07/09/2024,07/16/2024,Cardiology,Atrial Fibrillation,"$9,821.73",80%,Paid,66 & ABOVE
+PAT-3452,Kimberly Robinson,46,Female,03/31/2024,04/07/2024,Neurology,Neuropathy,"$9,183.36",0%,Pending,BTW 36 &50
+PAT-3453,Richard Moore,59,Male,01/23/2025,01/25/2025,General,Gastritis,"$1,293.94",100%,Paid,BTW 51 &65
+PAT-3454,Carol Taylor,48,Female,10/21/2024,10/30/2024,Cardiology,Coronary Artery Disease,"$23,400.73",100%,Paid,BTW 36 &50
+PAT-3455,Donna Lewis,68,Female,11/05/2025,11/10/2025,General,Flu Complications,"$5,575.83",70%,Paid,66 & ABOVE
+PAT-3456,Mary Garcia,22,Female,04/16/2024,04/17/2024,General,Diabetes Management,$711.37,90%,Pending,BTW 18 & 35
+PAT-3457,Joshua Young,55,Male,12/23/2025,12/26/2025,Emergency,Acute Appendicitis,"$3,304.36",60%,Paid,BTW 51 &65
+PAT-3458,William Anderson,48,Male,03/03/2024,03/11/2024,Neurology,Epilepsy,"$18,171.34",70%,Partially Paid,BTW 36 &50
+PAT-3459,Emily Clark,49,Female,06/27/2024,07/09/2024,Orthopedics,Spinal Disc Herniation,"$32,666.57",80%,Partially Paid,BTW 36 &50
+PAT-3460,Thomas Young,57,Male,02/28/2024,03/05/2024,General,Diabetes Management,"$8,770.94",80%,Paid,BTW 51 &65
+PAT-3461,Matthew Lee,37,Male,03/05/2025,03/08/2025,Neurology,Stroke,"$5,722.85",70%,Partially Paid,BTW 36 &50
+PAT-3462,Lisa Perez,73,Female,11/03/2024,11/04/2024,Emergency,Chest Pain,"$1,228.01",90%,Paid,66 & ABOVE
+PAT-3463,Linda Thompson,78,Female,11/10/2024,11/17/2024,General,Anemia,"$8,155.80",80%,Paid,66 & ABOVE
+PAT-3464,Emily Taylor,75,Female,05/19/2024,05/30/2024,Orthopedics,Spinal Disc Herniation,"$21,834.98",80%,Paid,66 & ABOVE
+PAT-3465,Elizabeth Martin,51,Female,12/13/2025,12/22/2025,Orthopedics,Carpal Tunnel,"$24,478.42",70%,Pending,BTW 51 &65
+PAT-3466,Joshua White,24,Male,08/26/2024,08/30/2024,General,Anemia,"$3,310.93",50%,Paid,BTW 18 & 35
+PAT-3467,Sarah Martinez,11,Female,05/17/2024,05/22/2024,Pediatrics,Allergic Reaction,"$3,615.86",70%,Paid,UNDER 18
+PAT-3468,Sandra Clark,71,Female,02/06/2025,02/13/2025,Cardiology,Coronary Artery Disease,"$14,885.93",90%,Paid,66 & ABOVE
+PAT-3469,Ashley Ramirez,29,Female,01/05/2024,01/19/2024,Orthopedics,Hip Fracture,"$21,594.51",60%,Paid,BTW 18 & 35
+PAT-3470,William Williams,35,Male,09/07/2025,09/18/2025,Orthopedics,Rotator Cuff Injury,"$16,660.51",70%,Pending,BTW 18 & 35
+PAT-3471,Susan Perez,9,Female,03/01/2024,03/04/2024,Pediatrics,Tonsillitis,"$5,025.87",80%,Paid,UNDER 18
+PAT-3472,Michelle Wilson,64,Female,05/25/2024,05/27/2024,Orthopedics,ACL Tear,"$3,693.42",90%,Paid,BTW 51 &65
+PAT-3473,Andrew Jackson,11,Male,06/11/2025,06/15/2025,Pediatrics,Allergic Reaction,"$6,070.15",70%,Paid,UNDER 18
+PAT-3474,Kevin Perez,78,Male,05/06/2025,05/07/2025,General,Diabetes Management,"$1,488.89",80%,Paid,66 & ABOVE
+PAT-3475,Michael Smith,64,Male,07/04/2024,07/07/2024,General,Diabetes Management,"$3,173.52",90%,Partially Paid,BTW 51 &65
+PAT-3476,Michelle Jones,38,Female,04/23/2025,05/02/2025,Orthopedics,Rotator Cuff Injury,"$12,100.26",90%,Partially Paid,BTW 36 &50
+PAT-3477,Jennifer Smith,66,Female,02/21/2024,02/27/2024,Cardiology,Arrhythmia,"$17,141.00",90%,Paid,#N/A
+PAT-3478,Betty Moore,36,Female,01/26/2025,01/27/2025,Emergency,Fracture,"$1,576.85",80%,Pending,BTW 36 &50
+PAT-3479,William Rodriguez,54,Male,07/31/2024,08/01/2024,General,Dehydration,$534.38,80%,Paid,BTW 51 &65
+PAT-3480,Kimberly Clark,1,Female,01/09/2024,01/10/2024,Pediatrics,Ear Infection,$728.22,60%,Paid,UNDER 18
+PAT-3481,Thomas Martin,29,Male,07/09/2025,07/15/2025,Orthopedics,Spinal Disc Herniation,"$12,100.99",100%,Pending,BTW 18 & 35
+PAT-3482,Dorothy Brown,77,Female,05/14/2025,05/20/2025,Cardiology,Atrial Fibrillation,"$8,417.51",70%,Partially Paid,66 & ABOVE
+PAT-3483,Linda Davis,82,Female,08/15/2024,08/18/2024,Cardiology,Coronary Artery Disease,"$4,494.01",50%,Partially Paid,66 & ABOVE
+PAT-3484,Paul Johnson,2,Male,03/09/2024,03/13/2024,Pediatrics,Ear Infection,"$3,929.21",90%,Pending,UNDER 18
+PAT-3485,Lisa Jones,48,Female,11/22/2025,12/06/2025,Orthopedics,ACL Tear,"$24,600.43",70%,Pending,BTW 36 &50
+PAT-3486,Joseph Clark,60,Male,05/26/2024,05/29/2024,Emergency,Burns,"$4,928.06",60%,Partially Paid,BTW 51 &65
+PAT-3487,Linda Wilson,69,Female,01/29/2025,01/30/2025,Emergency,Concussion,"$1,292.28",100%,Paid,66 & ABOVE
+PAT-3488,Nancy Jones,14,Female,11/02/2024,11/05/2024,Pediatrics,Allergic Reaction,"$3,900.85",90%,Paid,UNDER 18
+PAT-3489,Nancy Perez,39,Female,04/24/2025,04/29/2025,General,UTI,"$2,872.81",100%,Pending,BTW 36 &50
+PAT-3490,Barbara Brown,43,Female,11/14/2025,11/23/2025,Orthopedics,Carpal Tunnel,"$16,993.79",70%,Partially Paid,BTW 36 &50
+PAT-3491,Matthew Ramirez,11,Male,11/18/2025,11/22/2025,Pediatrics,Bronchitis,"$4,693.35",80%,Paid,UNDER 18
+PAT-3492,Sarah Brown,71,Female,11/29/2025,11/30/2025,Emergency,Acute Appendicitis,"$2,381.67",60%,Partially Paid,66 & ABOVE
+PAT-3493,Robert Williams,14,Male,04/05/2024,04/07/2024,Pediatrics,Asthma,"$3,014.20",60%,Pending,UNDER 18
+PAT-3494,Mary Thompson,45,Female,05/19/2024,05/27/2024,Neurology,Migraine,"$13,434.66",60%,Pending,BTW 36 &50
+PAT-3495,Michael White,29,Male,05/15/2025,05/26/2025,Orthopedics,Spinal Disc Herniation,"$13,647.71",50%,Paid,BTW 18 & 35
+PAT-3496,Michael Robinson,44,Male,10/02/2025,10/04/2025,Orthopedics,Hip Fracture,"$4,992.76",60%,Paid,BTW 36 &50
+PAT-3497,Robert Jackson,42,Male,12/31/2024,01/02/2025,Emergency,Severe Allergic Reaction,"$4,370.50",70%,Pending,BTW 36 &50
+PAT-3498,Donna Johnson,48,Female,01/04/2025,01/08/2025,General,Gastritis,"$3,007.70",80%,Pending,BTW 36 &50
+PAT-3499,Donna Martinez,50,Female,01/09/2025,01/16/2025,Neurology,Multiple Sclerosis,"$17,578.87",80%,Paid,BTW 36 &50
+PAT-3500,Anthony White,78,Male,09/10/2025,09/12/2025,General,Dehydration,"$1,203.76",90%,Pending,66 & ABOVE
+PAT-3501,Donna Lee,22,Female,12/13/2024,12/16/2024,Emergency,Abdominal Pain,"$2,453.12",50%,Paid,BTW 18 & 35
+PAT-3502,Kevin White,64,Male,04/28/2024,05/01/2024,Cardiology,Heart Failure,"$6,452.72",70%,Paid,BTW 51 &65
+PAT-3503,Lisa Lee,10,Female,07/31/2024,08/03/2024,Pediatrics,RSV,"$3,215.48",90%,Paid,UNDER 18
+PAT-3504,Daniel Jones,62,Male,01/21/2025,01/27/2025,Cardiology,Arrhythmia,"$17,458.62",0%,Paid,BTW 51 &65
+PAT-3505,Steven Young,57,Male,12/02/2025,12/07/2025,Cardiology,Atrial Fibrillation,"$14,707.56",80%,Partially Paid,BTW 51 &65
+PAT-3506,Steven Davis,52,Male,07/13/2024,07/17/2024,General,Dehydration,"$5,116.62",90%,Partially Paid,BTW 51 &65
+PAT-3507,Barbara Davis,29,Female,08/06/2024,08/13/2024,Orthopedics,Carpal Tunnel,"$11,957.78",80%,Pending,BTW 18 & 35
+PAT-3508,Michelle Taylor,76,Female,08/21/2024,08/22/2024,Emergency,Concussion,"$2,237.66",80%,Paid,66 & ABOVE
+PAT-3509,Steven Robinson,29,Male,07/18/2025,07/19/2025,General,Anemia,$912.18,50%,Pending,BTW 18 & 35
+PAT-3510,Lisa Lopez,63,Female,01/09/2025,01/10/2025,Emergency,Severe Allergic Reaction,"$2,435.08",60%,Partially Paid,BTW 51 &65
+PAT-3511,Michael Miller,55,Male,02/06/2024,02/18/2024,Orthopedics,Spinal Disc Herniation,"$26,103.65",60%,Partially Paid,BTW 51 &65
+PAT-3512,William Jones,6,Male,02/07/2025,02/08/2025,Pediatrics,RSV,$762.87,80%,Paid,UNDER 18
+PAT-3513,Michelle Thompson,15,Female,10/15/2025,10/16/2025,Pediatrics,Tonsillitis,$653.57,70%,Pending,UNDER 18
+PAT-3514,Mary Taylor,60,Female,12/24/2025,12/27/2025,Orthopedics,Carpal Tunnel,"$7,007.11",80%,Paid,BTW 51 &65
+PAT-3515,Joshua Williams,66,Male,05/15/2025,05/22/2025,General,Anemia,"$9,641.39",80%,Paid,66 & ABOVE
+PAT-3516,Lisa Wilson,41,Female,04/01/2025,04/11/2025,Orthopedics,Carpal Tunnel,"$20,277.68",60%,Pending,BTW 36 &50
+PAT-3517,Sandra Williams,56,Female,10/20/2025,10/27/2025,Cardiology,Hypertension,"$10,406.79",70%,Pending,BTW 51 &65
+PAT-3518,Steven Johnson,25,Male,04/21/2025,04/24/2025,Emergency,Chest Pain,"$5,735.73",80%,Pending,BTW 18 & 35
+PAT-3519,Andrew Lewis,38,Male,07/06/2024,07/09/2024,General,Dehydration,"$4,420.13",90%,Paid,BTW 36 &50
+PAT-3520,Karen Walker,56,Female,08/19/2025,08/25/2025,General,Pneumonia,"$4,034.24",90%,Pending,BTW 51 &65
+PAT-3521,Brian Miller,53,Male,01/24/2025,02/04/2025,Neurology,Neuropathy,"$18,224.23",80%,Paid,BTW 51 &65
+PAT-3522,Thomas Clark,21,Male,07/22/2024,07/29/2024,General,Pneumonia,"$4,562.96",90%,Paid,BTW 18 & 35
+PAT-3523,David Anderson,1,Male,10/31/2024,11/05/2024,Pediatrics,Tonsillitis,"$7,560.63",0%,Paid,UNDER 18
+PAT-3524,Sarah Anderson,21,Female,07/15/2025,07/16/2025,General,Anemia,$605.00,80%,Paid,BTW 18 & 35
+PAT-3525,Lisa Davis,77,Female,01/25/2025,01/26/2025,Emergency,Fracture,$899.35,70%,Pending,66 & ABOVE
+PAT-3526,Kenneth Davis,54,Male,02/28/2024,03/04/2024,Cardiology,Atrial Fibrillation,"$13,642.77",80%,Partially Paid,BTW 51 &65
+PAT-3527,Emily Walker,49,Female,09/08/2024,09/09/2024,General,Gastritis,"$1,419.55",90%,Partially Paid,BTW 36 &50
+PAT-3528,Thomas Garcia,74,Male,09/08/2025,09/13/2025,General,Flu Complications,"$4,915.01",90%,Paid,66 & ABOVE
+PAT-3529,Sarah Lee,24,Female,06/08/2024,06/09/2024,General,Pneumonia,$879.73,80%,Paid,BTW 18 & 35
+PAT-3530,Barbara Thompson,78,Female,07/23/2024,07/26/2024,Emergency,Concussion,"$4,924.09",70%,Paid,66 & ABOVE
+PAT-3531,Joshua Miller,34,Male,11/02/2025,11/12/2025,Orthopedics,Rotator Cuff Injury,"$13,077.22",60%,Partially Paid,BTW 18 & 35
+PAT-3532,William Young,45,Male,10/11/2025,10/18/2025,General,Anemia,"$5,438.75",80%,Paid,BTW 36 &50
+PAT-3533,Carol Ramirez,59,Female,10/27/2024,11/04/2024,Cardiology,Angina,"$23,659.10",90%,Pending,BTW 51 &65
+PAT-3534,Robert Clark,80,Male,07/17/2024,07/22/2024,Cardiology,Coronary Artery Disease,"$10,323.56",70%,Paid,66 & ABOVE
+PAT-3535,James Walker,53,Male,12/17/2024,12/26/2024,Orthopedics,Spinal Disc Herniation,"$23,629.36",90%,Paid,BTW 51 &65
+PAT-3536,Thomas Lewis,65,Male,03/08/2024,03/14/2024,General,Pneumonia,"$7,474.49",70%,Paid,BTW 51 &65
+PAT-3537,Elizabeth Robinson,46,Female,05/27/2025,05/30/2025,Emergency,Acute Appendicitis,"$6,062.52",90%,Paid,BTW 36 &50
+PAT-3538,Karen Taylor,19,Female,06/29/2024,07/01/2024,Emergency,Burns,"$4,748.93",0%,Paid,BTW 18 & 35
+PAT-3539,Anthony Jackson,12,Male,05/10/2025,05/14/2025,Pediatrics,Asthma,"$5,993.64",0%,Partially Paid,UNDER 18
+PAT-3540,Michael Taylor,49,Male,11/20/2025,11/22/2025,General,Anemia,"$1,129.20",80%,Paid,BTW 36 &50
+PAT-3541,Barbara Davis,47,Female,05/05/2024,05/08/2024,Emergency,Fracture,"$2,925.89",60%,Partially Paid,BTW 36 &50
+PAT-3542,Karen Davis,60,Female,09/30/2024,10/02/2024,Emergency,Fracture,"$3,791.25",60%,Pending,BTW 51 &65
+PAT-3543,Karen White,39,Female,06/23/2024,06/30/2024,Orthopedics,Spinal Disc Herniation,"$17,536.50",90%,Paid,BTW 36 &50
+PAT-3544,Sarah Davis,35,Female,01/30/2025,02/03/2025,General,Flu Complications,"$2,285.72",90%,Paid,BTW 18 & 35
+PAT-3545,Carol Wilson,37,Female,01/13/2024,01/22/2024,Orthopedics,Carpal Tunnel,"$11,741.84",80%,Paid,BTW 36 &50
+PAT-3546,Emily Jackson,51,Female,10/13/2025,10/21/2025,Cardiology,Arrhythmia,"$17,157.70",80%,Pending,BTW 51 &65
+PAT-3547,Susan Clark,69,Female,05/16/2025,05/17/2025,General,UTI,"$1,202.17",0%,Partially Paid,66 & ABOVE
+PAT-3548,David Johnson,10,Male,05/25/2025,05/26/2025,Pediatrics,RSV,$963.75,100%,Paid,UNDER 18
+PAT-3549,Andrew White,5,Male,07/03/2025,07/04/2025,Pediatrics,RSV,$634.45,80%,Paid,UNDER 18
+PAT-3550,Joshua Clark,67,Male,06/19/2025,07/01/2025,Orthopedics,Carpal Tunnel,"$15,003.09",60%,Pending,66 & ABOVE
+PAT-3551,Jennifer Anderson,33,Female,08/16/2024,08/18/2024,Emergency,Severe Allergic Reaction,"$1,936.80",80%,Paid,BTW 18 & 35
+PAT-3552,Karen Taylor,37,Female,03/20/2025,03/23/2025,Emergency,Abdominal Pain,"$6,193.25",60%,Pending,BTW 36 &50
+PAT-3553,Donna Jackson,72,Female,10/18/2025,10/25/2025,Orthopedics,Rotator Cuff Injury,"$11,831.06",80%,Partially Paid,66 & ABOVE
+PAT-3554,Richard Perez,75,Male,02/04/2025,02/11/2025,General,Gastritis,"$7,790.86",100%,Paid,66 & ABOVE
+PAT-3555,Nancy Young,27,Female,11/20/2025,11/27/2025,General,Anemia,"$4,784.60",70%,Paid,BTW 18 & 35
+PAT-3556,James Williams,60,Male,02/05/2024,02/09/2024,Cardiology,Arrhythmia,"$11,688.29",70%,Partially Paid,BTW 51 &65
+PAT-3557,Richard Perez,42,Male,09/09/2024,09/17/2024,Cardiology,Angina,"$18,692.25",70%,Paid,BTW 36 &50
+PAT-3558,Richard Davis,10,Male,05/31/2024,06/05/2024,Pediatrics,RSV,"$3,371.75",100%,Paid,UNDER 18
+PAT-3559,Barbara Martinez,79,Female,08/12/2024,08/14/2024,Emergency,Concussion,"$4,382.48",70%,Pending,66 & ABOVE
+PAT-3560,Michelle Brown,82,Female,09/14/2024,09/18/2024,General,Flu Complications,"$4,088.62",60%,Partially Paid,66 & ABOVE
+PAT-3561,Mark Lopez,7,Male,07/27/2025,07/30/2025,Pediatrics,Bronchitis,"$3,324.31",80%,Partially Paid,UNDER 18
+PAT-3562,Paul Taylor,25,Male,05/01/2024,05/09/2024,Orthopedics,Rotator Cuff Injury,"$9,961.07",70%,Paid,BTW 18 & 35
+PAT-3563,Richard Brown,77,Male,01/24/2024,01/30/2024,General,Gastritis,"$8,841.14",0%,Paid,66 & ABOVE
+PAT-3564,David Williams,3,Male,04/09/2025,04/12/2025,Pediatrics,RSV,"$5,228.94",50%,Pending,UNDER 18
+PAT-3565,Daniel Williams,47,Male,11/05/2025,11/10/2025,General,Pneumonia,"$6,395.28",90%,Paid,BTW 36 &50
+PAT-3566,Jennifer Young,68,Female,08/12/2024,08/13/2024,General,Gastritis,$973.65,80%,Pending,66 & ABOVE
+PAT-3567,Joshua Garcia,52,Male,03/08/2025,03/13/2025,Cardiology,Arrhythmia,"$10,137.39",70%,Partially Paid,BTW 51 &65
+PAT-3568,Ashley Moore,28,Female,01/09/2024,01/21/2024,Orthopedics,ACL Tear,"$22,947.49",80%,Paid,BTW 18 & 35
+PAT-3569,Kevin Anderson,67,Male,09/18/2024,09/20/2024,Orthopedics,Hip Fracture,"$2,438.71",70%,Partially Paid,66 & ABOVE
+PAT-3570,Barbara Smith,55,Female,03/09/2024,03/11/2024,Emergency,Chest Pain,"$1,963.87",80%,Partially Paid,BTW 51 &65
+PAT-3571,Andrew White,12,Male,06/23/2025,06/26/2025,Pediatrics,Ear Infection,"$3,527.16",70%,Paid,UNDER 18
+PAT-3572,Richard Thomas,35,Male,07/26/2025,07/29/2025,Emergency,Chest Pain,"$5,342.79",70%,Paid,BTW 18 & 35
+PAT-3573,Betty Jackson,30,Female,08/19/2024,08/31/2024,Orthopedics,ACL Tear,"$30,203.49",100%,Pending,BTW 18 & 35
+PAT-3574,Joshua Clark,69,Male,04/25/2024,05/01/2024,Orthopedics,ACL Tear,"$7,312.84",70%,Pending,66 & ABOVE
+PAT-3575,Sarah Robinson,34,Female,05/31/2024,06/04/2024,General,UTI,"$4,926.28",90%,Paid,BTW 18 & 35
+PAT-3576,Kimberly Moore,84,Female,09/06/2025,09/08/2025,Emergency,Concussion,"$3,526.66",100%,Partially Paid,66 & ABOVE
+PAT-3577,Kimberly Jones,76,Female,04/30/2025,05/04/2025,General,Pneumonia,"$3,004.47",80%,Paid,66 & ABOVE
+PAT-3578,Michael Brown,55,Male,05/22/2025,05/23/2025,Emergency,Fracture,$988.47,90%,Paid,BTW 51 &65
+PAT-3579,Jennifer Lee,63,Female,07/07/2025,07/14/2025,Cardiology,Coronary Artery Disease,"$8,993.97",60%,Paid,BTW 51 &65
+PAT-3580,Anthony Moore,66,Male,07/01/2025,07/05/2025,Cardiology,Heart Failure,"$7,934.14",80%,Paid,66 & ABOVE
+PAT-3581,Elizabeth Thomas,35,Female,09/23/2025,09/26/2025,Emergency,Acute Appendicitis,"$2,517.29",80%,Paid,BTW 18 & 35
+PAT-3582,William Hernandez,48,Male,06/30/2024,07/08/2024,Cardiology,Atrial Fibrillation,"$12,873.58",70%,Pending,BTW 36 &50
+PAT-3583,Barbara Martin,73,Female,09/06/2025,09/10/2025,General,Flu Complications,"$5,208.98",80%,Paid,66 & ABOVE
+PAT-3584,Joseph Davis,80,Male,07/16/2024,07/25/2024,Cardiology,Angina,"$16,136.12",100%,Paid,66 & ABOVE
+PAT-3585,Lisa Thomas,10,Female,08/04/2025,08/08/2025,Pediatrics,Tonsillitis,"$4,827.50",80%,Partially Paid,UNDER 18
+PAT-3586,Kenneth Jones,19,Male,07/12/2025,07/15/2025,Emergency,Concussion,"$6,858.75",80%,Pending,BTW 18 & 35
+PAT-3587,Lisa Smith,9,Female,11/16/2024,11/21/2024,Pediatrics,Ear Infection,"$6,485.39",70%,Partially Paid,UNDER 18
+PAT-3588,Anthony Miller,71,Male,07/25/2024,07/29/2024,General,Dehydration,"$5,888.84",60%,Paid,66 & ABOVE
+PAT-3589,William Lopez,57,Male,04/01/2025,04/02/2025,General,Pneumonia,$988.37,90%,Paid,BTW 51 &65
+PAT-3590,Thomas Harris,41,Male,01/13/2024,01/26/2024,Orthopedics,Hip Fracture,"$20,871.69",60%,Partially Paid,BTW 36 &50
+PAT-3591,Lisa Jackson,44,Female,09/26/2025,10/02/2025,Neurology,Parkinson's Disease,"$14,061.87",50%,Paid,BTW 36 &50
+PAT-3592,Andrew Hernandez,74,Male,09/24/2024,09/27/2024,General,Diabetes Management,"$3,702.92",70%,Pending,66 & ABOVE
+PAT-3593,Christopher Jackson,42,Male,03/31/2024,04/04/2024,Cardiology,Heart Failure,"$6,940.90",70%,Paid,BTW 36 &50
+PAT-3594,Joseph Clark,74,Male,07/11/2025,07/20/2025,Cardiology,Angina,"$25,312.20",70%,Pending,66 & ABOVE
+PAT-3595,Brian Clark,20,Male,03/23/2025,03/26/2025,Emergency,Fracture,"$4,859.27",60%,Pending,BTW 18 & 35
+PAT-3596,Dorothy Garcia,7,Female,12/28/2024,01/01/2025,Pediatrics,Allergic Reaction,"$5,071.39",90%,Partially Paid,UNDER 18
+PAT-3597,Dorothy Robinson,46,Female,04/12/2024,04/13/2024,General,Anemia,$826.69,80%,Paid,BTW 36 &50
+PAT-3598,Kenneth Thomas,75,Male,06/23/2024,06/26/2024,Emergency,Abdominal Pain,"$3,573.44",80%,Paid,66 & ABOVE
+PAT-3599,Betty Davis,17,Female,11/25/2024,11/27/2024,Pediatrics,Allergic Reaction,"$3,120.86",70%,Paid,UNDER 18
+PAT-3600,Jessica Anderson,36,Female,03/25/2025,03/26/2025,Emergency,Acute Appendicitis,"$1,050.82",70%,Pending,BTW 36 &50
+PAT-3601,Barbara Hernandez,58,Female,03/17/2024,03/20/2024,Emergency,Abdominal Pain,"$4,246.95",70%,Partially Paid,BTW 51 &65
+PAT-3602,Daniel Moore,24,Male,09/18/2025,09/21/2025,Emergency,Chest Pain,"$3,111.41",90%,Paid,BTW 18 & 35
+PAT-3603,Ashley Moore,56,Female,12/04/2024,12/09/2024,General,Flu Complications,"$6,980.98",90%,Paid,BTW 51 &65
+PAT-3604,Paul Smith,41,Male,02/08/2024,02/17/2024,Neurology,Stroke,"$11,620.41",100%,Paid,BTW 36 &50
+PAT-3605,Donna Ramirez,50,Female,07/22/2025,07/25/2025,Emergency,Concussion,"$3,974.41",50%,Paid,BTW 36 &50
+PAT-3606,Richard Robinson,72,Male,06/10/2024,06/16/2024,Neurology,Parkinson's Disease,"$14,702.17",80%,Pending,66 & ABOVE
+PAT-3607,Thomas Perez,41,Male,05/18/2025,05/25/2025,Cardiology,Coronary Artery Disease,"$17,086.83",90%,Paid,BTW 36 &50
+PAT-3608,Richard Anderson,24,Male,01/13/2024,01/14/2024,Emergency,Burns,$867.61,100%,Paid,BTW 18 & 35
+PAT-3609,Dorothy Martin,51,Female,04/17/2025,04/23/2025,General,Flu Complications,"$4,084.48",80%,Paid,BTW 51 &65
+PAT-3610,Kimberly Lee,84,Female,07/27/2025,07/28/2025,General,Diabetes Management,"$1,290.53",90%,Paid,66 & ABOVE
+PAT-3611,Ashley Martinez,3,Female,12/17/2024,12/21/2024,Pediatrics,Ear Infection,"$3,707.94",90%,Paid,UNDER 18
+PAT-3612,Joseph Jones,57,Male,05/02/2025,05/11/2025,Neurology,Neuropathy,"$15,346.13",80%,Paid,BTW 51 &65
+PAT-3613,Sarah Moore,45,Female,04/02/2025,04/07/2025,General,Dehydration,"$4,821.37",80%,Paid,BTW 36 &50
+PAT-3614,Paul Hernandez,69,Male,08/25/2025,09/01/2025,Cardiology,Heart Failure,"$15,787.69",100%,Paid,66 & ABOVE
+PAT-3615,Kimberly Jones,14,Female,09/23/2025,09/26/2025,Pediatrics,Tonsillitis,"$5,118.06",80%,Paid,UNDER 18
+PAT-3616,Sandra Lewis,36,Female,12/17/2024,12/18/2024,Emergency,Severe Allergic Reaction,"$1,184.98",80%,Paid,BTW 36 &50
+PAT-3617,Nancy Martinez,16,Female,01/26/2024,01/29/2024,Pediatrics,Bronchitis,"$2,558.28",90%,Paid,UNDER 18
+PAT-3618,Daniel Robinson,76,Male,01/13/2025,01/16/2025,Cardiology,Hypertension,"$3,998.34",100%,Paid,66 & ABOVE
+PAT-3619,Lisa Brown,68,Female,11/30/2024,12/03/2024,Orthopedics,Knee Replacement,"$4,286.64",70%,Pending,66 & ABOVE
+PAT-3620,Mary Garcia,73,Female,10/26/2025,11/04/2025,Cardiology,Arrhythmia,"$21,392.04",80%,Paid,66 & ABOVE
+PAT-3621,Robert Ramirez,37,Male,11/22/2025,11/24/2025,Emergency,Severe Allergic Reaction,"$3,201.39",80%,Paid,BTW 36 &50
+PAT-3622,Anthony Clark,11,Male,07/28/2024,07/30/2024,Pediatrics,Tonsillitis,"$3,300.07",100%,Paid,UNDER 18
+PAT-3623,Paul Martinez,7,Male,06/04/2025,06/05/2025,Pediatrics,Ear Infection,$784.49,90%,Paid,UNDER 18
+PAT-3624,Brian Lopez,26,Male,02/07/2025,02/08/2025,General,Anemia,"$1,170.60",80%,Paid,BTW 18 & 35
+PAT-3625,Richard Rodriguez,61,Male,11/04/2024,11/08/2024,Cardiology,Atrial Fibrillation,"$11,503.80",60%,Partially Paid,BTW 51 &65
+PAT-3626,Jessica Ramirez,8,Female,06/28/2025,06/30/2025,Pediatrics,Allergic Reaction,"$1,522.86",90%,Pending,UNDER 18
+PAT-3627,Sandra Jackson,78,Female,02/17/2025,02/27/2025,Neurology,Multiple Sclerosis,"$22,757.12",90%,Paid,66 & ABOVE
+PAT-3628,Daniel Jones,11,Male,09/01/2024,09/06/2024,Pediatrics,Ear Infection,"$3,197.15",70%,Partially Paid,UNDER 18
+PAT-3629,Sarah Ramirez,73,Female,05/29/2024,05/31/2024,General,Flu Complications,"$2,710.85",60%,Pending,66 & ABOVE
+PAT-3630,Michelle Young,84,Female,09/18/2025,09/20/2025,Emergency,Fracture,"$4,532.09",90%,Pending,66 & ABOVE
+PAT-3631,Daniel Hernandez,43,Male,07/19/2025,07/22/2025,Orthopedics,Rotator Cuff Injury,"$4,972.62",80%,Paid,BTW 36 &50
+PAT-3632,Robert Rodriguez,1,Male,11/13/2024,11/15/2024,Pediatrics,Bronchitis,"$3,235.05",70%,Paid,UNDER 18
+PAT-3633,Emily Jones,49,Female,10/07/2025,10/09/2025,General,Pneumonia,"$2,401.17",90%,Pending,BTW 36 &50
+PAT-3634,Donna Garcia,51,Female,05/07/2024,05/19/2024,Orthopedics,Spinal Disc Herniation,"$33,210.05",80%,Pending,BTW 51 &65
+PAT-3635,Donna Lewis,73,Female,12/17/2024,12/27/2024,Orthopedics,Knee Replacement,"$23,689.65",90%,Paid,66 & ABOVE
+PAT-3636,Steven Thompson,26,Male,10/30/2025,11/02/2025,General,Flu Complications,"$2,927.98",100%,Paid,BTW 18 & 35
+PAT-3637,Karen Thomas,58,Female,04/13/2025,04/22/2025,Cardiology,Heart Failure,"$10,908.77",90%,Pending,BTW 51 &65
+PAT-3638,Thomas Martinez,65,Male,07/05/2024,07/10/2024,Cardiology,Angina,"$9,405.20",70%,Pending,BTW 51 &65
+PAT-3639,Jennifer Harris,37,Female,08/19/2025,08/27/2025,Neurology,Neuropathy,"$11,960.80",80%,Paid,BTW 36 &50
+PAT-3640,Michael Garcia,68,Male,09/02/2024,09/03/2024,General,Anemia,"$1,174.70",90%,Pending,66 & ABOVE
+PAT-3641,Kenneth Lee,41,Male,01/23/2024,01/30/2024,General,UTI,"$6,487.34",80%,Paid,BTW 36 &50
+PAT-3642,Anthony Moore,40,Male,04/05/2025,04/07/2025,Emergency,Chest Pain,"$3,282.55",70%,Pending,BTW 36 &50
+PAT-3643,Ashley Jones,55,Female,02/28/2025,03/06/2025,Orthopedics,ACL Tear,"$13,468.92",80%,Paid,BTW 51 &65
+PAT-3644,Thomas Thompson,76,Male,07/30/2025,08/04/2025,Cardiology,Atrial Fibrillation,"$7,431.19",80%,Pending,66 & ABOVE
+PAT-3645,Nancy Davis,77,Female,11/16/2024,11/20/2024,Neurology,Multiple Sclerosis,"$4,416.84",80%,Partially Paid,66 & ABOVE
+PAT-3646,Michael Johnson,77,Male,11/06/2025,11/07/2025,Emergency,Abdominal Pain,"$1,265.79",80%,Pending,66 & ABOVE
+PAT-3647,Linda Davis,47,Female,08/05/2024,08/10/2024,General,Pneumonia,"$7,496.19",80%,Paid,BTW 36 &50
+PAT-3648,Jennifer Jackson,46,Female,03/30/2024,04/03/2024,General,Diabetes Management,"$5,991.42",100%,Partially Paid,BTW 36 &50
+PAT-3649,Thomas Jones,62,Male,05/16/2024,05/26/2024,Cardiology,Atrial Fibrillation,"$12,878.20",80%,Paid,BTW 51 &65
+PAT-3650,Steven Walker,5,Male,12/17/2025,12/21/2025,Pediatrics,Allergic Reaction,"$4,752.84",80%,Paid,UNDER 18
+PAT-3651,Thomas Robinson,34,Male,05/23/2024,05/24/2024,General,Dehydration,"$1,394.75",0%,Pending,BTW 18 & 35
+PAT-3652,Michael Thomas,59,Male,08/21/2024,08/23/2024,Emergency,Concussion,"$3,366.33",70%,Pending,BTW 51 &65
+PAT-3653,Sarah Young,65,Female,10/24/2024,10/30/2024,Cardiology,Angina,"$9,890.23",80%,Paid,BTW 51 &65
+PAT-3654,David Wilson,44,Male,03/28/2024,04/01/2024,Cardiology,Atrial Fibrillation,"$10,351.12",80%,Pending,BTW 36 &50
+PAT-3655,Steven Walker,17,Male,10/25/2025,10/26/2025,Pediatrics,RSV,$836.96,70%,Paid,UNDER 18
+PAT-3656,Dorothy Perez,16,Female,07/23/2024,07/28/2024,Pediatrics,Asthma,"$6,886.90",50%,Pending,UNDER 18
+PAT-3657,Kenneth Perez,3,Male,04/06/2024,04/11/2024,Pediatrics,Ear Infection,"$7,993.91",90%,Partially Paid,UNDER 18
+PAT-3658,Richard Moore,79,Male,09/26/2025,10/03/2025,General,Dehydration,"$9,475.62",90%,Paid,66 & ABOVE
+PAT-3659,Kenneth Davis,10,Male,11/14/2025,11/19/2025,Pediatrics,Asthma,"$8,509.42",0%,Paid,UNDER 18
+PAT-3660,Robert Lopez,50,Male,12/09/2024,12/17/2024,Orthopedics,ACL Tear,"$20,107.36",70%,Paid,BTW 36 &50
+PAT-3661,Matthew Hernandez,29,Male,07/18/2024,07/28/2024,Orthopedics,Carpal Tunnel,"$26,732.79",80%,Paid,BTW 18 & 35
+PAT-3662,Christopher Thompson,27,Male,07/30/2025,07/31/2025,Emergency,Severe Allergic Reaction,"$2,285.50",50%,Paid,BTW 18 & 35
+PAT-3663,Sarah Williams,11,Female,05/06/2024,05/10/2024,Pediatrics,RSV,"$3,830.25",90%,Pending,UNDER 18
+PAT-3664,Donna Brown,17,Female,05/26/2024,05/31/2024,Pediatrics,Ear Infection,"$3,322.20",60%,Paid,UNDER 18
+PAT-3665,Carol Smith,42,Female,10/20/2024,10/28/2024,Cardiology,Arrhythmia,"$16,467.43",70%,Paid,BTW 36 &50
+PAT-3666,Karen Martinez,57,Female,07/04/2024,07/09/2024,Orthopedics,Hip Fracture,"$11,600.46",100%,Paid,BTW 51 &65
+PAT-3667,Brian Perez,64,Male,02/12/2024,02/22/2024,Neurology,Parkinson's Disease,"$15,327.29",80%,Paid,BTW 51 &65
+PAT-3668,Kenneth Wilson,47,Male,12/23/2024,12/30/2024,General,Dehydration,"$6,289.07",100%,Pending,BTW 36 &50
+PAT-3669,Michelle Anderson,45,Female,01/04/2025,01/07/2025,Neurology,Migraine,"$4,517.86",80%,Pending,BTW 36 &50
+PAT-3670,Kimberly Clark,13,Female,07/20/2024,07/22/2024,Pediatrics,Tonsillitis,"$3,226.45",90%,Paid,UNDER 18
+PAT-3671,Elizabeth Harris,2,Female,03/18/2024,03/20/2024,Pediatrics,Bronchitis,"$1,704.46",60%,Pending,UNDER 18
+PAT-3672,Robert Clark,55,Male,07/17/2025,07/18/2025,General,Gastritis,$921.05,70%,Partially Paid,BTW 51 &65
+PAT-3673,Emily Rodriguez,78,Female,04/22/2024,04/29/2024,General,Pneumonia,"$3,751.44",80%,Paid,66 & ABOVE
+PAT-3674,James Lewis,73,Male,07/17/2025,07/21/2025,General,Diabetes Management,"$5,182.15",70%,Partially Paid,66 & ABOVE
+PAT-3675,Richard Williams,57,Male,11/04/2025,11/10/2025,Cardiology,Atrial Fibrillation,"$13,365.24",70%,Partially Paid,BTW 51 &65
+PAT-3676,Carol Clark,75,Female,10/26/2025,11/06/2025,Orthopedics,Carpal Tunnel,"$14,351.59",50%,Paid,66 & ABOVE
+PAT-3677,Christopher Thompson,2,Male,06/06/2025,06/07/2025,Pediatrics,Tonsillitis,"$1,340.39",80%,Partially Paid,UNDER 18
+PAT-3678,Christopher Garcia,61,Male,08/31/2025,09/02/2025,General,UTI,"$2,477.89",80%,Pending,BTW 51 &65
+PAT-3679,Elizabeth Hernandez,6,Female,11/20/2025,11/22/2025,Pediatrics,Allergic Reaction,"$1,871.78",80%,Pending,UNDER 18
+PAT-3680,Elizabeth Ramirez,36,Female,07/22/2024,07/24/2024,Emergency,Fracture,"$3,205.01",70%,Paid,BTW 36 &50
+PAT-3681,Ashley Clark,52,Female,03/10/2025,03/11/2025,General,Anemia,"$1,148.98",50%,Partially Paid,BTW 51 &65
+PAT-3682,Nancy Thomas,6,Female,10/22/2025,10/24/2025,Pediatrics,Allergic Reaction,"$2,502.72",80%,Paid,UNDER 18
+PAT-3683,Joseph Davis,68,Male,12/26/2024,01/05/2025,Orthopedics,Carpal Tunnel,"$23,367.19",80%,Partially Paid,66 & ABOVE
+PAT-3684,Joseph White,54,Male,09/17/2025,09/29/2025,Orthopedics,ACL Tear,"$14,220.87",80%,Paid,BTW 51 &65
+PAT-3685,Daniel Jones,7,Male,03/22/2025,03/25/2025,Pediatrics,Tonsillitis,"$2,954.11",80%,Paid,UNDER 18
+PAT-3686,Donna Lee,17,Female,11/23/2025,11/24/2025,Pediatrics,Allergic Reaction,$609.66,90%,Partially Paid,UNDER 18
+PAT-3687,Anthony Thompson,59,Male,11/06/2025,11/10/2025,Orthopedics,Hip Fracture,"$8,093.46",80%,Paid,BTW 51 &65
+PAT-3688,Paul Jackson,81,Male,03/30/2025,03/31/2025,Emergency,Chest Pain,"$2,072.19",60%,Partially Paid,66 & ABOVE
+PAT-3689,Ashley Garcia,21,Female,12/12/2025,12/14/2025,Emergency,Burns,"$1,895.35",50%,Pending,BTW 18 & 35
+PAT-3690,Thomas Lee,32,Male,12/04/2025,12/05/2025,General,Diabetes Management,"$1,195.19",100%,Paid,BTW 18 & 35
+PAT-3691,David Martinez,59,Male,10/23/2025,10/26/2025,Emergency,Severe Allergic Reaction,"$6,880.53",90%,Pending,BTW 51 &65
+PAT-3692,Mary Johnson,3,Female,05/05/2025,05/10/2025,Pediatrics,RSV,"$8,731.85",100%,Pending,UNDER 18
+PAT-3693,Betty Ramirez,71,Female,01/16/2025,01/22/2025,Neurology,Epilepsy,"$10,575.02",70%,Pending,66 & ABOVE
+PAT-3694,Carol Anderson,46,Female,12/19/2024,12/22/2024,General,Gastritis,"$1,975.02",90%,Partially Paid,BTW 36 &50
+PAT-3695,Kenneth Rodriguez,47,Male,04/16/2024,04/24/2024,Orthopedics,Spinal Disc Herniation,"$14,406.87",100%,Pending,BTW 36 &50
+PAT-3696,Karen Thomas,79,Female,09/12/2025,09/17/2025,Cardiology,Coronary Artery Disease,"$10,285.16",80%,Partially Paid,66 & ABOVE
+PAT-3697,Matthew Lewis,14,Male,04/06/2024,04/07/2024,Pediatrics,RSV,$730.74,0%,Partially Paid,UNDER 18
+PAT-3698,Anthony Taylor,30,Male,10/07/2025,10/13/2025,Orthopedics,Spinal Disc Herniation,"$12,841.02",70%,Paid,BTW 18 & 35
+PAT-3699,Michael Young,71,Male,03/14/2024,03/17/2024,Neurology,Migraine,"$3,969.91",90%,Paid,66 & ABOVE
+PAT-3700,Joshua Brown,47,Male,09/10/2025,09/13/2025,General,Flu Complications,"$3,558.48",90%,Pending,BTW 36 &50
+PAT-3701,Richard Johnson,35,Male,12/21/2024,12/23/2024,Emergency,Concussion,"$2,492.36",90%,Partially Paid,BTW 18 & 35
+PAT-3702,Richard Garcia,64,Male,04/05/2025,04/08/2025,General,UTI,"$2,931.95",100%,Paid,BTW 51 &65
+PAT-3703,Nancy Brown,39,Female,12/08/2024,12/10/2024,Emergency,Fracture,"$3,264.79",70%,Paid,BTW 36 &50
+PAT-3704,Thomas Wilson,65,Male,12/28/2025,01/01/2026,General,Gastritis,"$5,976.06",70%,Pending,BTW 51 &65
+PAT-3705,Donna Ramirez,85,Female,03/26/2025,03/27/2025,General,Flu Complications,"$1,133.10",70%,Pending,66 & ABOVE
+PAT-3706,Anthony Moore,85,Male,08/28/2025,08/30/2025,Emergency,Fracture,"$4,676.38",90%,Paid,66 & ABOVE
+PAT-3707,Anthony Jackson,72,Male,01/07/2025,01/09/2025,Emergency,Fracture,"$2,041.86",90%,Paid,66 & ABOVE
+PAT-3708,Lisa Lee,40,Female,07/22/2024,07/28/2024,Cardiology,Coronary Artery Disease,"$11,703.16",90%,Paid,BTW 36 &50
+PAT-3709,Donna Jones,6,Female,10/12/2025,10/13/2025,Pediatrics,Allergic Reaction,"$1,336.01",80%,Pending,UNDER 18
+PAT-3710,Thomas Smith,81,Male,04/30/2025,05/08/2025,Cardiology,Atrial Fibrillation,"$21,413.92",80%,Paid,66 & ABOVE
+PAT-3711,Nancy Davis,56,Female,12/28/2024,12/30/2024,Emergency,Acute Appendicitis,"$4,020.17",80%,Partially Paid,BTW 51 &65
+PAT-3712,Karen Lee,66,Female,06/22/2024,07/04/2024,Orthopedics,ACL Tear,"$28,053.05",80%,Paid,66 & ABOVE
+PAT-3713,Michelle Harris,34,Female,09/23/2024,10/04/2024,Neurology,Migraine,"$23,948.97",100%,Paid,BTW 18 & 35
+PAT-3714,David Young,84,Male,03/25/2025,04/03/2025,Cardiology,Heart Failure,"$23,623.51",90%,Pending,66 & ABOVE
+PAT-3715,James Ramirez,34,Male,08/25/2025,08/31/2025,Neurology,Epilepsy,"$10,445.30",60%,Partially Paid,BTW 18 & 35
+PAT-3716,Mark White,51,Male,08/22/2025,08/29/2025,Orthopedics,Knee Replacement,"$19,007.18",70%,Paid,BTW 51 &65
+PAT-3717,David Jones,43,Male,05/13/2025,05/16/2025,Emergency,Abdominal Pain,"$2,458.76",90%,Paid,BTW 36 &50
+PAT-3718,Brian Moore,32,Male,01/21/2025,01/29/2025,Orthopedics,Spinal Disc Herniation,"$14,632.49",60%,Partially Paid,BTW 18 & 35
+PAT-3719,Susan Perez,34,Female,03/24/2025,03/29/2025,General,Dehydration,"$2,891.81",80%,Paid,BTW 18 & 35
+PAT-3720,Linda Davis,54,Female,09/16/2024,09/19/2024,Cardiology,Hypertension,"$8,029.13",80%,Pending,BTW 51 &65
+PAT-3721,Matthew Wilson,45,Male,11/12/2025,11/13/2025,General,Diabetes Management,$858.67,80%,Paid,BTW 36 &50
+PAT-3722,Steven Perez,16,Male,11/17/2025,11/19/2025,Pediatrics,Bronchitis,"$3,460.07",100%,Pending,UNDER 18
+PAT-3723,Brian Harris,48,Male,08/10/2025,08/17/2025,General,Gastritis,"$7,776.12",60%,Pending,BTW 36 &50
+PAT-3724,Brian Lewis,69,Male,04/28/2024,04/30/2024,Emergency,Concussion,"$4,547.85",70%,Partially Paid,66 & ABOVE
+PAT-3725,Emily White,68,Female,04/13/2024,04/18/2024,Cardiology,Arrhythmia,"$11,509.91",0%,Pending,66 & ABOVE
+PAT-3726,Michelle Thomas,22,Female,06/10/2024,06/13/2024,Emergency,Acute Appendicitis,"$2,402.42",100%,Paid,BTW 18 & 35
+PAT-3727,Robert Garcia,15,Male,03/01/2024,03/05/2024,Pediatrics,RSV,"$4,108.03",80%,Paid,UNDER 18
+PAT-3728,Lisa Miller,48,Female,01/17/2025,01/23/2025,General,Gastritis,"$3,552.94",80%,Pending,BTW 36 &50
+PAT-3729,Ashley Martinez,85,Female,08/17/2024,08/20/2024,Emergency,Severe Allergic Reaction,"$2,872.72",50%,Pending,66 & ABOVE
+PAT-3730,James Perez,49,Male,11/12/2024,11/20/2024,Orthopedics,Rotator Cuff Injury,"$8,897.51",80%,Paid,BTW 36 &50
+PAT-3731,Carol Robinson,10,Female,04/25/2024,04/28/2024,Pediatrics,Ear Infection,"$3,469.08",80%,Paid,UNDER 18
+PAT-3732,Andrew Clark,47,Male,01/09/2024,01/15/2024,Cardiology,Angina,"$8,778.52",80%,Pending,BTW 36 &50
+PAT-3733,Mark Brown,66,Male,06/06/2024,06/20/2024,Orthopedics,Hip Fracture,"$38,501.90",80%,Paid,66 & ABOVE
+PAT-3734,Andrew Martinez,43,Male,12/25/2025,12/27/2025,General,UTI,"$1,693.89",80%,Paid,BTW 36 &50
+PAT-3735,William Walker,29,Male,05/28/2024,05/29/2024,Emergency,Burns,"$1,250.03",80%,Paid,BTW 18 & 35
+PAT-3736,Dorothy Ramirez,76,Female,10/12/2024,10/13/2024,Emergency,Acute Appendicitis,"$2,286.55",90%,Partially Paid,66 & ABOVE
+PAT-3737,Christopher White,70,Male,07/31/2024,08/01/2024,Emergency,Acute Appendicitis,"$1,516.20",80%,Paid,66 & ABOVE
+PAT-3738,Sarah Garcia,79,Female,01/02/2025,01/12/2025,Cardiology,Atrial Fibrillation,"$24,161.06",100%,Paid,66 & ABOVE
+PAT-3739,Ashley Thompson,76,Female,12/24/2024,12/27/2024,Emergency,Severe Allergic Reaction,"$5,162.18",90%,Partially Paid,66 & ABOVE
+PAT-3740,Thomas Young,27,Male,03/08/2025,03/21/2025,Orthopedics,Hip Fracture,"$22,371.56",80%,Paid,BTW 18 & 35
+PAT-3741,Elizabeth Jackson,82,Female,10/27/2024,10/28/2024,Emergency,Burns,"$1,865.06",80%,Paid,66 & ABOVE
+PAT-3742,Joseph Martinez,71,Male,09/23/2024,09/26/2024,Cardiology,Coronary Artery Disease,"$7,640.58",80%,Partially Paid,66 & ABOVE
+PAT-3743,Karen Williams,69,Female,01/31/2025,02/02/2025,General,Diabetes Management,"$2,892.40",50%,Paid,66 & ABOVE
+PAT-3744,Richard Rodriguez,32,Male,12/24/2024,12/31/2024,Neurology,Neuropathy,"$9,495.53",100%,Pending,BTW 18 & 35
+PAT-3745,Ashley Rodriguez,29,Female,09/24/2024,09/25/2024,Emergency,Concussion,$870.10,80%,Paid,BTW 18 & 35
+PAT-3746,Sarah Davis,76,Female,01/15/2024,01/16/2024,General,Flu Complications,"$1,437.06",70%,Pending,66 & ABOVE
+PAT-3747,Sarah Perez,53,Female,08/15/2024,08/20/2024,General,Dehydration,"$2,735.83",90%,Pending,BTW 51 &65
+PAT-3748,Kenneth Wilson,27,Male,12/02/2024,12/03/2024,Emergency,Abdominal Pain,"$1,879.03",100%,Paid,BTW 18 & 35
+PAT-3749,Ashley Martinez,11,Female,07/09/2024,07/13/2024,Pediatrics,Allergic Reaction,"$4,685.15",70%,Partially Paid,UNDER 18
+PAT-3750,Richard Rodriguez,30,Male,11/26/2025,11/28/2025,Emergency,Severe Allergic Reaction,"$4,638.35",90%,Partially Paid,BTW 18 & 35
+PAT-3751,Betty Thompson,35,Female,06/11/2024,06/14/2024,Emergency,Chest Pain,"$6,181.48",90%,Paid,BTW 18 & 35
+PAT-3752,Donna Clark,66,Female,12/02/2025,12/08/2025,Neurology,Epilepsy,"$10,893.55",80%,Paid,#N/A
+PAT-3753,Joshua Miller,70,Male,07/08/2024,07/12/2024,General,Anemia,"$5,559.19",100%,Paid,66 & ABOVE
+PAT-3754,Jennifer Lewis,82,Female,07/29/2025,08/04/2025,Cardiology,Coronary Artery Disease,"$12,777.22",90%,Paid,66 & ABOVE
+PAT-3755,Karen Rodriguez,28,Female,03/11/2024,03/12/2024,Emergency,Severe Allergic Reaction,$824.72,80%,Paid,BTW 18 & 35
+PAT-3756,Kenneth Davis,77,Male,03/28/2025,04/01/2025,Neurology,Stroke,"$7,892.83",90%,Paid,66 & ABOVE
+PAT-3757,Sarah Martinez,34,Female,09/02/2024,09/04/2024,Emergency,Burns,"$4,965.79",80%,Paid,BTW 18 & 35
+PAT-3758,Jennifer Taylor,8,Female,03/19/2024,03/21/2024,Pediatrics,Ear Infection,"$1,380.95",70%,Paid,UNDER 18
+PAT-3759,Joshua Hernandez,41,Male,07/11/2024,07/12/2024,General,Dehydration,$783.53,50%,Paid,BTW 36 &50
+PAT-3760,Andrew Moore,50,Male,02/14/2025,02/15/2025,General,Diabetes Management,$644.33,50%,Partially Paid,BTW 36 &50
+PAT-3761,Christopher Lee,64,Male,11/25/2025,11/26/2025,Emergency,Abdominal Pain,$803.78,90%,Paid,BTW 51 &65
+PAT-3762,Andrew Robinson,32,Male,09/09/2025,09/16/2025,General,Gastritis,"$7,286.69",80%,Paid,BTW 18 & 35
+PAT-3763,Jessica Lee,47,Female,11/01/2024,11/04/2024,Emergency,Chest Pain,"$6,520.03",80%,Paid,BTW 36 &50
+PAT-3764,Nancy Clark,46,Female,12/01/2025,12/02/2025,General,Diabetes Management,"$1,101.07",70%,Pending,BTW 36 &50
+PAT-3765,Karen Ramirez,48,Female,09/04/2025,09/14/2025,Cardiology,Angina,"$15,930.98",80%,Paid,BTW 36 &50
+PAT-3766,James Johnson,47,Male,09/22/2024,09/29/2024,General,Pneumonia,"$6,394.95",100%,Partially Paid,BTW 36 &50
+PAT-3767,David Wilson,18,Male,01/01/2024,01/03/2024,General,Anemia,"$2,803.03",90%,Paid,BTW 18 & 35
+PAT-3768,James Walker,41,Male,01/25/2024,01/28/2024,Neurology,Neuropathy,"$4,689.52",80%,Paid,BTW 36 &50
+PAT-3769,Donna Thompson,67,Female,08/10/2024,08/20/2024,Neurology,Migraine,"$13,724.66",80%,Paid,66 & ABOVE
+PAT-3770,Matthew Brown,74,Male,02/20/2025,02/24/2025,Cardiology,Arrhythmia,"$9,130.48",60%,Partially Paid,66 & ABOVE
+PAT-3771,Ashley Jones,32,Female,04/20/2024,04/21/2024,Emergency,Chest Pain,"$2,383.80",70%,Paid,BTW 18 & 35
+PAT-3772,Betty Rodriguez,51,Female,01/06/2024,01/09/2024,General,Pneumonia,"$1,901.75",70%,Pending,BTW 51 &65
+PAT-3773,Matthew Jones,55,Male,06/24/2025,06/27/2025,Emergency,Concussion,"$5,558.16",60%,Paid,BTW 51 &65
+PAT-3774,Robert Hernandez,34,Male,05/28/2025,06/04/2025,General,Gastritis,"$4,500.70",90%,Paid,BTW 18 & 35
+PAT-3775,Paul Rodriguez,81,Male,02/11/2025,02/16/2025,Cardiology,Arrhythmia,"$9,036.90",50%,Pending,66 & ABOVE
+PAT-3776,Michael Wilson,83,Male,06/19/2025,06/24/2025,General,UTI,"$4,404.23",50%,Partially Paid,66 & ABOVE
+PAT-3777,Anthony Miller,51,Male,06/22/2024,06/27/2024,General,Pneumonia,"$4,907.47",80%,Paid,BTW 51 &65
+PAT-3778,Brian Davis,71,Male,03/15/2025,03/25/2025,Cardiology,Atrial Fibrillation,"$26,768.21",100%,Partially Paid,66 & ABOVE
+PAT-3779,Kimberly Thompson,85,Female,06/03/2025,06/07/2025,General,Anemia,"$2,615.96",100%,Paid,66 & ABOVE
+PAT-3780,Mark Harris,74,Male,12/17/2025,12/23/2025,General,UTI,"$7,371.54",70%,Partially Paid,66 & ABOVE
+PAT-3781,Elizabeth Lopez,74,Female,12/31/2024,01/01/2025,Emergency,Fracture,"$1,984.12",70%,Pending,66 & ABOVE
+PAT-3782,Sarah Ramirez,42,Female,04/08/2025,04/14/2025,Neurology,Multiple Sclerosis,"$15,265.35",100%,Paid,BTW 36 &50
+PAT-3783,Christopher Martin,43,Male,10/09/2024,10/20/2024,Neurology,Migraine,"$24,895.77",80%,Paid,BTW 36 &50
+PAT-3784,Betty Davis,43,Female,03/27/2025,03/31/2025,General,Diabetes Management,"$2,392.67",60%,Partially Paid,BTW 36 &50
+PAT-3785,Sarah Jackson,23,Female,12/08/2024,12/09/2024,General,Pneumonia,"$1,000.43",90%,Paid,BTW 18 & 35
+PAT-3786,David Rodriguez,58,Male,02/21/2025,02/25/2025,Neurology,Epilepsy,"$10,299.00",90%,Paid,BTW 51 &65
+PAT-3787,Kimberly Smith,58,Female,10/09/2024,10/19/2024,Neurology,Parkinson's Disease,"$25,129.38",90%,Paid,BTW 51 &65
+PAT-3788,Joshua Jones,9,Male,05/06/2024,05/11/2024,Pediatrics,Asthma,"$6,735.15",100%,Partially Paid,UNDER 18
+PAT-3789,Carol Lewis,62,Female,08/26/2024,09/05/2024,Cardiology,Hypertension,"$20,130.14",70%,Paid,BTW 51 &65
+PAT-3790,Kenneth Robinson,3,Male,02/27/2024,02/28/2024,Pediatrics,Bronchitis,"$1,138.69",80%,Paid,UNDER 18
+PAT-3791,Matthew Martin,75,Male,09/19/2025,10/02/2025,Orthopedics,Carpal Tunnel,"$17,304.05",80%,Paid,66 & ABOVE
+PAT-3792,Emily Garcia,66,Female,01/09/2025,01/13/2025,General,UTI,"$2,563.36",70%,Paid,#N/A
+PAT-3793,Carol Ramirez,73,Female,08/17/2025,08/23/2025,General,Flu Complications,"$5,938.64",80%,Paid,66 & ABOVE
+PAT-3794,Robert Lee,58,Male,04/16/2025,04/19/2025,Orthopedics,Knee Replacement,"$6,946.39",90%,Paid,BTW 51 &65
+PAT-3795,Dorothy Thomas,32,Female,06/04/2025,06/15/2025,Neurology,Stroke,"$15,560.38",80%,Paid,BTW 18 & 35
+PAT-3796,Joshua Thomas,14,Male,03/30/2025,04/03/2025,Pediatrics,Asthma,"$6,667.93",90%,Pending,UNDER 18
+PAT-3797,Thomas Smith,26,Male,01/14/2024,01/16/2024,Emergency,Fracture,"$3,800.12",70%,Paid,BTW 18 & 35
+PAT-3798,Elizabeth Miller,25,Female,02/22/2024,02/23/2024,Emergency,Severe Allergic Reaction,"$1,697.82",80%,Paid,BTW 18 & 35
+PAT-3799,Robert Lopez,44,Male,11/19/2025,11/22/2025,Cardiology,Coronary Artery Disease,"$8,833.89",100%,Paid,BTW 36 &50
+PAT-3800,Robert Hernandez,52,Male,06/01/2025,06/02/2025,General,Diabetes Management,$809.13,60%,Pending,BTW 51 &65
+PAT-3801,Matthew Moore,66,Male,02/13/2024,02/15/2024,Emergency,Chest Pain,"$2,529.54",100%,Pending,#N/A
+PAT-3802,Donna Jackson,8,Female,10/09/2025,10/12/2025,Pediatrics,RSV,"$4,739.39",80%,Pending,UNDER 18
+PAT-3803,Sarah Brown,37,Female,10/31/2025,11/01/2025,Emergency,Concussion,"$1,444.42",80%,Paid,BTW 36 &50
+PAT-3804,Carol Lee,21,Female,04/02/2024,04/03/2024,General,Dehydration,$646.89,70%,Pending,BTW 18 & 35
+PAT-3805,Brian Clark,64,Male,09/18/2024,09/20/2024,Emergency,Acute Appendicitis,"$4,600.38",70%,Paid,BTW 51 &65
+PAT-3806,Elizabeth Walker,78,Female,07/22/2024,07/25/2024,Emergency,Concussion,"$2,479.70",80%,Paid,66 & ABOVE
+PAT-3807,James Perez,48,Male,10/25/2025,11/01/2025,General,Gastritis,"$10,101.09",80%,Partially Paid,BTW 36 &50
+PAT-3808,Karen Miller,59,Female,09/21/2025,09/24/2025,General,UTI,"$2,291.15",60%,Paid,BTW 51 &65
+PAT-3809,Barbara Miller,61,Female,10/05/2024,10/08/2024,General,Diabetes Management,"$4,440.52",0%,Pending,BTW 51 &65
+PAT-3810,Richard Martinez,83,Male,11/06/2024,11/07/2024,General,Gastritis,$923.56,90%,Paid,66 & ABOVE
+PAT-3811,James Young,62,Male,11/05/2024,11/08/2024,Cardiology,Coronary Artery Disease,"$7,663.44",90%,Paid,BTW 51 &65
+PAT-3812,Jennifer Smith,14,Female,01/29/2025,02/02/2025,Pediatrics,Ear Infection,"$6,386.92",100%,Paid,UNDER 18
+PAT-3813,Susan Thomas,41,Female,02/22/2024,02/24/2024,Emergency,Acute Appendicitis,"$3,243.40",70%,Partially Paid,BTW 36 &50
+PAT-3814,William Anderson,28,Male,08/19/2024,08/21/2024,Emergency,Chest Pain,"$2,328.97",60%,Partially Paid,BTW 18 & 35
+PAT-3815,Carol Ramirez,76,Female,04/06/2024,04/11/2024,Cardiology,Hypertension,"$11,411.19",70%,Paid,66 & ABOVE
+PAT-3816,Barbara Thomas,80,Female,06/06/2024,06/14/2024,Neurology,Multiple Sclerosis,"$18,741.17",70%,Paid,66 & ABOVE
+PAT-3817,Ashley Thompson,53,Female,09/06/2024,09/08/2024,Emergency,Concussion,"$3,602.24",70%,Paid,BTW 51 &65
+PAT-3818,Ashley Perez,50,Female,11/13/2024,11/15/2024,Orthopedics,Knee Replacement,"$3,967.17",90%,Paid,BTW 36 &50
+PAT-3819,Jennifer Thompson,30,Female,11/06/2024,11/10/2024,Orthopedics,Carpal Tunnel,"$5,430.38",80%,Paid,BTW 18 & 35
+PAT-3820,Barbara Martinez,49,Female,10/23/2024,10/29/2024,General,Diabetes Management,"$3,153.91",90%,Paid,BTW 36 &50
+PAT-3821,Jessica Perez,32,Female,09/12/2024,09/18/2024,General,UTI,"$4,214.28",80%,Paid,BTW 18 & 35
+PAT-3822,Richard Anderson,70,Male,10/17/2025,10/20/2025,Neurology,Stroke,"$5,898.39",60%,Pending,66 & ABOVE
+PAT-3823,Susan Garcia,35,Female,11/13/2025,11/27/2025,Orthopedics,Spinal Disc Herniation,"$32,045.67",80%,Paid,BTW 18 & 35
+PAT-3824,Thomas Jones,77,Male,04/01/2024,04/06/2024,Neurology,Epilepsy,"$11,916.10",90%,Paid,66 & ABOVE
+PAT-3825,Barbara Thompson,26,Female,11/15/2024,11/22/2024,General,Pneumonia,"$5,499.80",80%,Pending,BTW 18 & 35
+PAT-3826,Andrew Jackson,32,Male,11/12/2025,11/17/2025,Neurology,Multiple Sclerosis,"$8,755.16",50%,Paid,BTW 18 & 35
+PAT-3827,Matthew White,35,Male,01/07/2025,01/12/2025,General,Pneumonia,"$3,252.83",70%,Partially Paid,BTW 18 & 35
+PAT-3828,Michelle Martinez,52,Female,10/08/2025,10/13/2025,Orthopedics,ACL Tear,"$12,778.56",80%,Pending,BTW 51 &65
+PAT-3829,Daniel White,73,Male,11/12/2025,11/24/2025,Orthopedics,Knee Replacement,"$27,830.62",60%,Pending,66 & ABOVE
+PAT-3830,Joseph Perez,5,Male,07/22/2025,07/26/2025,Pediatrics,Bronchitis,"$4,474.62",100%,Pending,UNDER 18
+PAT-3831,James Moore,13,Male,01/01/2025,01/05/2025,Pediatrics,Bronchitis,"$3,553.09",60%,Pending,UNDER 18
+PAT-3832,Joshua Thompson,16,Male,10/22/2025,10/24/2025,Pediatrics,Asthma,"$2,767.65",70%,Paid,UNDER 18
+PAT-3833,Kevin Lopez,14,Male,06/09/2024,06/11/2024,Pediatrics,RSV,"$2,721.43",80%,Paid,UNDER 18
+PAT-3834,Jennifer Thomas,21,Female,10/08/2024,10/11/2024,Emergency,Fracture,"$2,887.15",90%,Partially Paid,BTW 18 & 35
+PAT-3835,Daniel Wilson,29,Male,09/17/2024,09/20/2024,Emergency,Abdominal Pain,"$7,071.48",80%,Paid,BTW 18 & 35
+PAT-3836,Kimberly Harris,72,Female,01/09/2024,01/13/2024,Cardiology,Coronary Artery Disease,"$8,289.81",80%,Paid,66 & ABOVE
+PAT-3837,Elizabeth Jackson,20,Female,07/06/2025,07/09/2025,General,Pneumonia,"$1,605.53",80%,Paid,BTW 18 & 35
+PAT-3838,Betty Wilson,26,Female,01/15/2025,01/18/2025,General,Pneumonia,"$3,803.99",50%,Partially Paid,BTW 18 & 35
+PAT-3839,Karen Lopez,41,Female,09/13/2025,09/19/2025,Orthopedics,Spinal Disc Herniation,"$11,654.43",0%,Partially Paid,BTW 36 &50
+PAT-3840,Christopher Brown,1,Male,12/13/2025,12/15/2025,Pediatrics,Allergic Reaction,"$3,542.96",80%,Partially Paid,UNDER 18
+PAT-3841,Robert Moore,1,Male,12/06/2025,12/11/2025,Pediatrics,Tonsillitis,"$6,340.11",70%,Pending,UNDER 18
+PAT-3842,Joshua Walker,31,Male,04/04/2024,04/17/2024,Orthopedics,Carpal Tunnel,"$33,330.20",60%,Paid,BTW 18 & 35
+PAT-3843,Barbara Martin,35,Female,12/23/2024,12/26/2024,Orthopedics,ACL Tear,"$4,622.94",90%,Paid,BTW 18 & 35
+PAT-3844,William Thomas,2,Male,06/29/2024,07/04/2024,Pediatrics,Ear Infection,"$6,314.88",70%,Paid,UNDER 18
+PAT-3845,Joshua Davis,25,Male,04/27/2024,05/11/2024,Orthopedics,Carpal Tunnel,"$25,971.47",80%,Pending,BTW 18 & 35
+PAT-3846,Lisa Miller,44,Female,02/24/2024,02/29/2024,General,UTI,"$2,926.43",90%,Paid,BTW 36 &50
+PAT-3847,Daniel Ramirez,39,Male,10/01/2025,10/06/2025,General,Anemia,"$6,712.97",80%,Pending,BTW 36 &50
+PAT-3848,Karen Miller,72,Female,09/04/2024,09/07/2024,General,Diabetes Management,"$3,235.11",80%,Paid,66 & ABOVE
+PAT-3849,Steven Williams,64,Male,11/08/2025,11/09/2025,Emergency,Severe Allergic Reaction,"$1,023.76",100%,Paid,BTW 51 &65
+PAT-3850,Donna Lee,15,Female,03/15/2025,03/20/2025,Pediatrics,Asthma,"$3,307.88",80%,Partially Paid,UNDER 18
+PAT-3851,Richard Thompson,1,Male,03/13/2024,03/15/2024,Pediatrics,Asthma,"$2,503.98",50%,Paid,UNDER 18
+PAT-3852,Mark Young,36,Male,09/14/2024,09/20/2024,Orthopedics,Rotator Cuff Injury,"$9,721.90",0%,Pending,BTW 36 &50
+PAT-3853,Steven Lewis,45,Male,04/25/2025,05/02/2025,General,Flu Complications,"$8,925.93",70%,Partially Paid,BTW 36 &50
+PAT-3854,Kevin Anderson,31,Male,04/25/2024,04/28/2024,General,Dehydration,"$2,423.96",90%,Paid,BTW 18 & 35
+PAT-3855,Donna Martin,77,Female,11/16/2024,11/22/2024,General,Diabetes Management,"$4,453.26",60%,Pending,66 & ABOVE
+PAT-3856,Kevin Lewis,78,Male,09/12/2024,09/15/2024,Neurology,Parkinson's Disease,"$4,774.57",90%,Paid,66 & ABOVE
+PAT-3857,Betty Jackson,31,Female,03/31/2024,04/03/2024,Emergency,Severe Allergic Reaction,"$3,412.00",100%,Paid,BTW 18 & 35
+PAT-3858,Ashley Martin,51,Female,10/11/2024,10/12/2024,General,Dehydration,"$1,093.33",80%,Paid,BTW 51 &65
+PAT-3859,Linda Lewis,3,Female,11/03/2025,11/07/2025,Pediatrics,RSV,"$5,111.21",100%,Paid,UNDER 18
+PAT-3860,Kevin Walker,75,Male,03/01/2025,03/07/2025,General,Anemia,"$5,375.85",70%,Paid,66 & ABOVE
+PAT-3861,Kevin Lee,55,Male,07/21/2024,07/25/2024,Orthopedics,Rotator Cuff Injury,"$9,604.62",100%,Pending,BTW 51 &65
+PAT-3862,Betty Lopez,51,Female,12/07/2024,12/14/2024,General,UTI,"$8,806.14",70%,Paid,BTW 51 &65
+PAT-3863,Kimberly Anderson,20,Female,01/29/2025,01/31/2025,Emergency,Acute Appendicitis,"$3,945.82",80%,Paid,BTW 18 & 35
+PAT-3864,Sandra Wilson,33,Female,08/15/2025,08/16/2025,Emergency,Fracture,"$2,303.30",80%,Paid,BTW 18 & 35
+PAT-3865,Daniel Thomas,9,Male,06/06/2025,06/07/2025,Pediatrics,Tonsillitis,"$1,534.49",80%,Paid,UNDER 18
+PAT-3866,Paul Thomas,27,Male,02/27/2024,02/28/2024,General,Gastritis,"$1,353.93",80%,Paid,BTW 18 & 35
+PAT-3867,Dorothy Wilson,70,Female,05/10/2024,05/16/2024,Cardiology,Coronary Artery Disease,"$12,898.02",50%,Pending,66 & ABOVE
+PAT-3868,Karen Jones,62,Female,05/08/2024,05/12/2024,General,Dehydration,"$4,833.02",70%,Partially Paid,BTW 51 &65
+PAT-3869,Mark Martinez,42,Male,11/23/2024,11/26/2024,Orthopedics,Spinal Disc Herniation,"$3,132.44",80%,Paid,BTW 36 &50
+PAT-3870,Brian Jackson,60,Male,05/14/2025,05/21/2025,Neurology,Parkinson's Disease,"$9,720.49",90%,Pending,BTW 51 &65
+PAT-3871,Sandra Harris,16,Female,01/25/2025,01/28/2025,Pediatrics,RSV,"$3,754.13",80%,Paid,UNDER 18
+PAT-3872,Thomas Smith,34,Male,10/04/2024,10/08/2024,General,Anemia,"$5,762.53",90%,Paid,BTW 18 & 35
+PAT-3873,James Rodriguez,79,Male,11/07/2025,11/08/2025,General,Pneumonia,$808.56,70%,Paid,66 & ABOVE
+PAT-3874,Dorothy Johnson,64,Female,11/12/2025,11/20/2025,Cardiology,Arrhythmia,"$15,637.55",90%,Paid,BTW 51 &65
+PAT-3875,Carol Ramirez,58,Female,03/06/2025,03/08/2025,Emergency,Severe Allergic Reaction,"$4,011.18",90%,Paid,BTW 51 &65
+PAT-3876,Matthew Lee,53,Male,04/30/2024,05/05/2024,Cardiology,Hypertension,"$10,693.69",100%,Paid,BTW 51 &65
+PAT-3877,Michelle Ramirez,39,Female,12/07/2024,12/10/2024,Orthopedics,Spinal Disc Herniation,"$3,746.98",80%,Paid,BTW 36 &50
+PAT-3878,Richard Davis,31,Male,08/11/2024,08/21/2024,Neurology,Epilepsy,"$24,544.65",80%,Paid,BTW 18 & 35
+PAT-3879,Richard Harris,35,Male,11/08/2024,11/09/2024,Emergency,Fracture,"$1,355.19",80%,Paid,BTW 18 & 35
+PAT-3880,Jennifer Jones,10,Female,07/25/2024,07/26/2024,Pediatrics,Ear Infection,$628.96,70%,Paid,UNDER 18
+PAT-3881,Emily Martinez,47,Female,01/27/2025,01/29/2025,General,Gastritis,"$2,366.37",80%,Paid,BTW 36 &50
+PAT-3882,Kevin Thomas,22,Male,09/30/2024,10/01/2024,Emergency,Chest Pain,"$2,471.97",50%,Paid,BTW 18 & 35
+PAT-3883,Elizabeth Young,51,Female,11/15/2024,11/20/2024,Cardiology,Heart Failure,"$12,189.63",90%,Paid,BTW 51 &65
+PAT-3884,Steven Jones,7,Male,01/03/2025,01/06/2025,Pediatrics,Tonsillitis,"$4,133.36",60%,Pending,UNDER 18
+PAT-3885,Elizabeth Lee,29,Female,01/15/2025,01/25/2025,Orthopedics,Knee Replacement,"$10,560.57",70%,Paid,BTW 18 & 35
+PAT-3886,Donna Harris,55,Female,07/21/2024,07/27/2024,Cardiology,Hypertension,"$16,685.38",90%,Partially Paid,BTW 51 &65
+PAT-3887,Betty Thompson,43,Female,06/07/2024,06/12/2024,Orthopedics,Carpal Tunnel,"$12,448.18",90%,Paid,BTW 36 &50
+PAT-3888,Carol Garcia,58,Female,09/06/2024,09/09/2024,Neurology,Migraine,"$7,181.24",80%,Paid,BTW 51 &65
+PAT-3889,Donna Martin,51,Female,11/16/2025,11/26/2025,Neurology,Neuropathy,"$12,719.10",80%,Pending,BTW 51 &65
+PAT-3890,Sarah Walker,19,Female,07/16/2024,07/21/2024,General,Dehydration,"$3,960.59",70%,Partially Paid,BTW 18 & 35
+PAT-3891,Kevin Hernandez,73,Male,05/24/2025,06/06/2025,Orthopedics,Hip Fracture,"$32,658.41",100%,Paid,66 & ABOVE
+PAT-3892,Matthew Miller,53,Male,01/04/2025,01/07/2025,Emergency,Fracture,"$4,283.70",70%,Partially Paid,BTW 51 &65
+PAT-3893,David Clark,52,Male,07/08/2024,07/10/2024,Orthopedics,ACL Tear,"$5,291.81",50%,Paid,BTW 51 &65
+PAT-3894,Elizabeth Miller,80,Female,11/27/2024,12/03/2024,General,Diabetes Management,"$3,170.27",90%,Paid,66 & ABOVE
+PAT-3895,Brian Thomas,32,Male,08/14/2024,08/21/2024,General,Pneumonia,"$6,978.90",90%,Pending,BTW 18 & 35
+PAT-3896,Sandra Lewis,63,Female,08/23/2024,08/29/2024,General,Gastritis,"$4,868.46",80%,Paid,BTW 51 &65
+PAT-3897,Mark Martinez,58,Male,06/25/2025,07/09/2025,Orthopedics,Rotator Cuff Injury,"$34,197.05",80%,Paid,BTW 51 &65
+PAT-3898,Barbara Johnson,60,Female,02/09/2024,02/10/2024,General,Pneumonia,$647.75,80%,Paid,BTW 51 &65
+PAT-3899,Jessica Williams,5,Female,06/18/2024,06/23/2024,Pediatrics,Ear Infection,"$3,913.66",90%,Pending,UNDER 18
+PAT-3900,Christopher Perez,8,Male,03/01/2025,03/06/2025,Pediatrics,Tonsillitis,"$8,364.62",100%,Paid,UNDER 18
+PAT-3901,Betty Lewis,8,Female,11/30/2025,12/01/2025,Pediatrics,Ear Infection,$750.94,60%,Pending,UNDER 18
+PAT-3902,Nancy Clark,21,Female,09/15/2025,09/16/2025,Emergency,Fracture,"$1,602.23",90%,Paid,BTW 18 & 35
+PAT-3903,Richard Lee,26,Male,12/28/2025,12/31/2025,Orthopedics,ACL Tear,"$3,905.30",80%,Pending,BTW 18 & 35
+PAT-3904,Anthony Garcia,56,Male,02/28/2025,03/04/2025,Cardiology,Arrhythmia,"$10,882.46",0%,Partially Paid,BTW 51 &65
+PAT-3905,Karen Brown,40,Female,12/01/2025,12/05/2025,General,Dehydration,"$3,645.87",70%,Pending,BTW 36 &50
+PAT-3906,Emily Perez,40,Female,04/07/2025,04/13/2025,General,UTI,"$5,871.80",90%,Partially Paid,BTW 36 &50
+PAT-3907,Barbara Smith,34,Female,02/04/2024,02/07/2024,General,Pneumonia,"$2,527.51",60%,Pending,BTW 18 & 35
+PAT-3908,Lisa Brown,40,Female,08/14/2024,08/20/2024,Cardiology,Atrial Fibrillation,"$11,311.32",100%,Pending,BTW 36 &50
+PAT-3909,Brian White,35,Male,06/04/2024,06/10/2024,Orthopedics,Hip Fracture,"$14,294.04",80%,Paid,BTW 18 & 35
+PAT-3910,Nancy White,15,Female,06/23/2025,06/25/2025,Pediatrics,Tonsillitis,"$3,325.48",60%,Paid,UNDER 18
+PAT-3911,Brian White,84,Male,12/20/2025,12/21/2025,General,Anemia,$583.35,50%,Partially Paid,66 & ABOVE
+PAT-3912,Matthew Ramirez,54,Male,01/31/2024,02/06/2024,General,UTI,"$6,644.98",90%,Paid,BTW 51 &65
+PAT-3913,Kevin Miller,75,Male,07/02/2025,07/06/2025,Orthopedics,Rotator Cuff Injury,"$6,709.11",80%,Partially Paid,66 & ABOVE
+PAT-3914,Kenneth Rodriguez,32,Male,04/03/2024,04/07/2024,Neurology,Parkinson's Disease,"$7,216.27",80%,Pending,BTW 18 & 35
+PAT-3915,Matthew Young,45,Male,03/21/2025,03/30/2025,Neurology,Epilepsy,"$13,906.96",80%,Paid,BTW 36 &50
+PAT-3916,Thomas Lopez,68,Male,08/09/2025,08/19/2025,Orthopedics,Carpal Tunnel,"$19,370.95",70%,Pending,66 & ABOVE
+PAT-3917,Ashley Johnson,42,Female,06/09/2024,06/16/2024,General,Dehydration,"$4,618.17",50%,Partially Paid,BTW 36 &50
+PAT-3918,Brian Clark,35,Male,01/04/2025,01/07/2025,General,Dehydration,"$4,249.75",70%,Partially Paid,BTW 18 & 35
+PAT-3919,Daniel Perez,60,Male,01/02/2024,01/06/2024,Cardiology,Atrial Fibrillation,"$6,532.53",80%,Partially Paid,BTW 51 &65
+PAT-3920,Michelle Rodriguez,60,Female,12/02/2024,12/07/2024,Neurology,Migraine,"$5,729.57",60%,Paid,BTW 51 &65
+PAT-3921,Nancy Lee,21,Female,06/05/2025,06/07/2025,General,Gastritis,"$2,997.87",70%,Paid,BTW 18 & 35
+PAT-3922,Thomas Williams,54,Male,10/29/2024,11/04/2024,General,Dehydration,"$7,526.27",80%,Paid,BTW 51 &65
+PAT-3923,Emily Harris,29,Female,06/17/2024,06/19/2024,Emergency,Abdominal Pain,"$4,378.02",80%,Paid,BTW 18 & 35
+PAT-3924,Linda Smith,36,Female,10/17/2024,10/25/2024,Orthopedics,Spinal Disc Herniation,"$17,866.58",90%,Partially Paid,BTW 36 &50
+PAT-3925,Michael White,79,Male,03/18/2025,03/22/2025,Cardiology,Hypertension,"$5,517.67",90%,Paid,66 & ABOVE
+PAT-3926,Lisa Williams,48,Female,10/05/2024,10/12/2024,Neurology,Stroke,"$14,595.77",80%,Paid,BTW 36 &50
+PAT-3927,Daniel Ramirez,42,Male,11/30/2024,12/01/2024,General,Anemia,$543.06,50%,Paid,BTW 36 &50
+PAT-3928,Linda Hernandez,25,Female,01/25/2024,01/30/2024,Orthopedics,Knee Replacement,"$5,082.06",0%,Pending,BTW 18 & 35
+PAT-3929,Joshua Jackson,38,Male,07/08/2025,07/10/2025,Emergency,Fracture,"$2,871.13",90%,Paid,BTW 36 &50
+PAT-3930,Sandra Anderson,67,Female,12/17/2024,12/19/2024,Orthopedics,Carpal Tunnel,"$4,425.15",70%,Paid,66 & ABOVE
+PAT-3931,Jennifer Walker,28,Female,01/04/2025,01/05/2025,Emergency,Severe Allergic Reaction,"$1,958.56",80%,Paid,BTW 18 & 35
+PAT-3932,Mark Johnson,68,Male,04/20/2025,04/22/2025,General,Anemia,"$2,268.81",80%,Paid,66 & ABOVE
+PAT-3933,James Jones,41,Male,08/26/2025,09/04/2025,Neurology,Neuropathy,"$22,621.47",70%,Partially Paid,BTW 36 &50
+PAT-3934,Mary Young,46,Female,11/17/2025,11/20/2025,Orthopedics,ACL Tear,"$3,972.12",50%,Pending,BTW 36 &50
+PAT-3935,Susan Brown,16,Female,05/02/2024,05/03/2024,Pediatrics,RSV,$921.67,100%,Paid,UNDER 18
+PAT-3936,Elizabeth Rodriguez,48,Female,07/30/2024,08/01/2024,Emergency,Burns,"$3,783.41",70%,Pending,BTW 36 &50
+PAT-3937,David Anderson,31,Male,01/24/2025,01/27/2025,Emergency,Fracture,"$3,007.82",60%,Pending,BTW 18 & 35
+PAT-3938,Michael Jones,12,Male,03/17/2025,03/22/2025,Pediatrics,Bronchitis,"$6,547.21",80%,Partially Paid,UNDER 18
+PAT-3939,Richard Wilson,79,Male,08/22/2025,08/28/2025,Neurology,Stroke,"$6,760.22",90%,Paid,66 & ABOVE
+PAT-3940,Robert Perez,48,Male,04/21/2025,04/24/2025,General,Gastritis,"$3,865.55",80%,Paid,BTW 36 &50
+PAT-3941,Steven Young,43,Male,04/01/2024,04/07/2024,General,Dehydration,"$5,921.38",70%,Paid,BTW 36 &50
+PAT-3942,Christopher Lewis,34,Male,11/11/2024,11/20/2024,Orthopedics,Carpal Tunnel,"$11,299.89",100%,Pending,BTW 18 & 35
+PAT-3943,Barbara Jackson,15,Female,04/10/2024,04/14/2024,Pediatrics,Tonsillitis,"$4,061.69",60%,Paid,UNDER 18
+PAT-3944,Ashley White,9,Female,08/15/2024,08/16/2024,Pediatrics,Tonsillitis,"$1,243.02",80%,Paid,UNDER 18
+PAT-3945,Andrew Ramirez,70,Male,10/27/2024,11/03/2024,Orthopedics,Carpal Tunnel,"$18,613.24",80%,Paid,66 & ABOVE
+PAT-3946,Betty Robinson,31,Female,08/22/2024,08/25/2024,Neurology,Neuropathy,"$4,541.45",60%,Paid,BTW 18 & 35
+PAT-3947,Kevin Harris,65,Male,11/06/2025,11/11/2025,Cardiology,Angina,"$14,897.36",100%,Paid,BTW 51 &65
+PAT-3948,Kenneth Lewis,60,Male,04/14/2025,04/19/2025,Orthopedics,Carpal Tunnel,"$5,557.59",70%,Partially Paid,BTW 51 &65
+PAT-3949,Carol Jones,59,Female,02/09/2024,02/15/2024,Cardiology,Coronary Artery Disease,"$14,526.47",90%,Paid,BTW 51 &65
+PAT-3950,Lisa Lopez,33,Female,10/31/2025,11/07/2025,General,UTI,"$6,592.81",80%,Pending,BTW 18 & 35
+PAT-3951,Elizabeth Johnson,45,Female,11/02/2024,11/06/2024,General,Pneumonia,"$5,811.71",80%,Paid,BTW 36 &50
+PAT-3952,Barbara Harris,72,Female,07/13/2024,07/20/2024,Orthopedics,Spinal Disc Herniation,"$15,420.80",60%,Partially Paid,66 & ABOVE
+PAT-3953,Nancy Jones,31,Female,02/05/2024,02/16/2024,Orthopedics,Knee Replacement,"$28,706.36",80%,Paid,BTW 18 & 35
+PAT-3954,Sandra Thompson,78,Female,06/19/2024,06/25/2024,Cardiology,Atrial Fibrillation,"$10,923.17",90%,Pending,66 & ABOVE
+PAT-3955,Jennifer Clark,52,Female,02/08/2025,02/17/2025,Neurology,Parkinson's Disease,"$20,558.88",90%,Paid,BTW 51 &65
+PAT-3956,Kenneth Wilson,41,Male,11/27/2025,11/28/2025,General,Diabetes Management,$759.83,70%,Paid,BTW 36 &50
+PAT-3957,Sandra Anderson,32,Female,02/09/2025,02/11/2025,Emergency,Burns,"$2,012.29",70%,Paid,BTW 18 & 35
+PAT-3958,Paul Walker,39,Male,06/07/2024,06/13/2024,Orthopedics,Rotator Cuff Injury,"$16,229.56",90%,Paid,BTW 36 &50
+PAT-3959,Joseph Jackson,52,Male,01/13/2024,01/19/2024,General,Diabetes Management,"$8,478.03",70%,Partially Paid,BTW 51 &65
+PAT-3960,Michelle Robinson,58,Female,06/27/2024,07/07/2024,Neurology,Parkinson's Disease,"$23,264.42",60%,Paid,BTW 51 &65
+PAT-3961,Betty Garcia,82,Female,12/28/2024,01/01/2025,General,Dehydration,"$4,983.18",80%,Partially Paid,66 & ABOVE
+PAT-3962,Jennifer Martin,47,Female,03/19/2025,03/25/2025,General,Dehydration,"$7,613.41",90%,Paid,BTW 36 &50
+PAT-3963,William Jones,37,Male,04/05/2024,04/06/2024,Emergency,Acute Appendicitis,"$2,431.81",80%,Paid,BTW 36 &50
+PAT-3964,Mary Jackson,61,Female,07/05/2024,07/07/2024,General,UTI,"$1,073.89",70%,Pending,BTW 51 &65
+PAT-3965,Emily Ramirez,70,Female,03/22/2025,04/01/2025,Cardiology,Heart Failure,"$19,302.61",100%,Partially Paid,66 & ABOVE
+PAT-3966,Kimberly Anderson,68,Female,05/14/2025,05/20/2025,General,Pneumonia,"$4,686.18",100%,Paid,66 & ABOVE
+PAT-3967,Karen Martin,7,Female,09/23/2025,09/26/2025,Pediatrics,Bronchitis,"$3,301.80",70%,Partially Paid,UNDER 18
+PAT-3968,Jessica Hernandez,57,Female,10/31/2024,11/03/2024,Orthopedics,Rotator Cuff Injury,"$5,980.45",100%,Paid,BTW 51 &65
+PAT-3969,Donna Thomas,34,Female,10/02/2025,10/06/2025,General,Dehydration,"$5,054.45",60%,Pending,BTW 18 & 35
+PAT-3970,Thomas Brown,52,Male,08/07/2025,08/09/2025,Emergency,Fracture,"$3,102.51",90%,Paid,BTW 51 &65
+PAT-3971,Joshua Taylor,66,Male,01/12/2025,01/19/2025,Orthopedics,Carpal Tunnel,"$7,068.71",70%,Partially Paid,#N/A
+PAT-3972,James Garcia,59,Male,03/25/2024,03/29/2024,Orthopedics,Knee Replacement,"$7,018.51",80%,Paid,BTW 51 &65
+PAT-3973,Donna Young,17,Female,11/29/2024,11/30/2024,Pediatrics,Tonsillitis,$895.40,70%,Pending,UNDER 18
+PAT-3974,Linda Lewis,25,Female,07/15/2025,07/20/2025,General,Anemia,"$5,857.12",70%,Paid,BTW 18 & 35
+PAT-3975,Emily Walker,22,Female,09/23/2025,09/26/2025,Emergency,Burns,"$5,212.57",90%,Paid,BTW 18 & 35
+PAT-3976,Kenneth Garcia,73,Male,12/28/2024,01/04/2025,Cardiology,Coronary Artery Disease,"$18,256.04",70%,Pending,66 & ABOVE
+PAT-3977,Carol Thomas,40,Female,04/04/2025,04/14/2025,Cardiology,Atrial Fibrillation,"$22,950.92",80%,Paid,BTW 36 &50
+PAT-3978,Andrew Young,65,Male,12/23/2024,12/30/2024,General,Pneumonia,"$9,174.23",60%,Partially Paid,BTW 51 &65
+PAT-3979,Donna Williams,18,Female,08/31/2025,09/03/2025,General,UTI,"$2,502.76",80%,Paid,BTW 18 & 35
+PAT-3980,Daniel Jackson,43,Male,09/29/2025,10/02/2025,Emergency,Fracture,"$6,927.74",90%,Paid,BTW 36 &50
+PAT-3981,Sarah Robinson,54,Female,09/04/2024,09/09/2024,General,Anemia,"$4,663.19",80%,Paid,BTW 51 &65
+PAT-3982,Susan Lewis,55,Female,10/31/2024,11/08/2024,Orthopedics,Rotator Cuff Injury,"$20,435.29",70%,Partially Paid,BTW 51 &65
+PAT-3983,Mary Martin,81,Female,12/18/2025,12/20/2025,General,Anemia,"$1,278.31",60%,Pending,66 & ABOVE
+PAT-3984,Richard Perez,44,Male,01/18/2025,01/21/2025,Emergency,Acute Appendicitis,"$6,875.52",70%,Paid,BTW 36 &50
+PAT-3985,Elizabeth Lopez,57,Female,08/11/2024,08/17/2024,Neurology,Parkinson's Disease,"$14,894.02",60%,Paid,BTW 51 &65
+PAT-3986,Sandra Lewis,55,Female,06/09/2025,06/17/2025,Orthopedics,Spinal Disc Herniation,"$16,185.60",100%,Paid,BTW 51 &65
+PAT-3987,Sarah Garcia,64,Female,09/05/2024,09/09/2024,General,Diabetes Management,"$4,017.98",100%,Paid,BTW 51 &65
+PAT-3988,Dorothy Thompson,1,Female,08/24/2025,08/26/2025,Pediatrics,Ear Infection,"$1,260.77",80%,Pending,UNDER 18
+PAT-3989,Barbara Rodriguez,14,Female,09/23/2025,09/25/2025,Pediatrics,Bronchitis,"$2,626.23",60%,Pending,UNDER 18
+PAT-3990,Steven White,14,Male,07/11/2024,07/12/2024,Pediatrics,Asthma,$713.28,0%,Partially Paid,UNDER 18
+PAT-3991,Dorothy Taylor,64,Female,10/27/2024,10/31/2024,General,Dehydration,"$5,579.15",60%,Pending,BTW 51 &65
+PAT-3992,Barbara Lee,2,Female,12/01/2025,12/04/2025,Pediatrics,Allergic Reaction,"$3,033.99",80%,Paid,UNDER 18
+PAT-3993,Thomas Miller,43,Male,11/20/2025,11/22/2025,Emergency,Abdominal Pain,"$4,133.94",50%,Paid,BTW 36 &50
+PAT-3994,Joseph Hernandez,10,Male,07/03/2025,07/07/2025,Pediatrics,Bronchitis,"$4,374.76",90%,Partially Paid,UNDER 18
+PAT-3995,Kimberly Lopez,51,Female,10/03/2024,10/06/2024,Cardiology,Atrial Fibrillation,"$7,839.78",90%,Pending,BTW 51 &65
+PAT-3996,Joshua Miller,58,Male,06/09/2025,06/13/2025,Cardiology,Heart Failure,"$10,021.00",90%,Paid,BTW 51 &65
+PAT-3997,Daniel White,75,Male,10/09/2025,10/14/2025,General,UTI,"$6,377.65",60%,Pending,66 & ABOVE
+PAT-3998,Ashley Brown,32,Female,04/22/2025,04/23/2025,Emergency,Acute Appendicitis,"$1,020.62",60%,Paid,BTW 18 & 35
+PAT-3999,Robert Ramirez,56,Male,08/08/2025,08/09/2025,Emergency,Burns,"$2,315.06",70%,Paid,BTW 51 &65
+PAT-4000,Jennifer Ramirez,18,Female,02/27/2024,03/02/2024,General,Gastritis,"$2,235.16",100%,Partially Paid,BTW 18 & 35
