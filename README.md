@@ -206,6 +206,9 @@ The interactive Excel dashboard consolidates all metrics onto one executive view
 
 ---
 ### PERSONAL EXTENSIONS USING MAMP ON MAC BOOK AND CREATING A LOCAL HOST SITE TO VISUALIZE THE PROJECT
+
+*It is worth noting that I changed the name of the data to be NAROK Level 4 rather than the name given initially, this was intentional for testing in MAMP*
+
 **THE SECURE HEALTH HOSPITAL SIGN UP PAGE** 
 ![](log_in_hms.png)
 **THE SECURE HEALTH HOSPITAL LOG IN PAGE** 
@@ -220,7 +223,9 @@ The interactive Excel dashboard consolidates all metrics onto one executive view
 ![](sample_data_2.jpg)
 
 ## Suggested Repository Structure
-
+*Thank you for reading and hope you understood*
+**Author**
+*Elisha Alal*
 ```text
 secure-life-hospital-analytics/
 │
