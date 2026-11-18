@@ -205,6 +205,19 @@ The interactive Excel dashboard consolidates all metrics onto one executive view
 * **Revenue vs. Profitability:** The dataset contains billing figures without operational cost data, so departmental comparisons reflect gross revenue rather than net profit.
 
 ---
+### PERSONAL EXTENSIONS USING MAMP ON MAC BOOK AND CREATING A LOCAL HOST SITE TO VISUALIZE THE PROJECT
+**THE SECURE HEALTH HOSPITAL SIGN UP PAGE** 
+![](log_in_hms.png)
+**THE SECURE HEALTH HOSPITAL LOG IN PAGE** 
+![](log_in.png)
+**THE SECURE HEALTH HOSPITAL ADMIN'S PAGE** 
+![](web_hms.png)
+**THE SECURE HEALTH HOSPITAL MAMP PAGE** 
+![](mamp_hms.png)
+**SAMPLE SQL**
+![](sql.jpg)
+**SAMPLE DATA**
+![](sample_data_2.jpg)
 
 ## Suggested Repository Structure
 
