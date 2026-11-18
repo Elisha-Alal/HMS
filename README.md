@@ -224,7 +224,7 @@ The interactive Excel dashboard consolidates all metrics onto one executive view
 
 ## Suggested Repository Structure
 *Thank you for reading and hope you understood*
-**Author**
+ ## **Author**
 *Elisha Alal*
 ```text
 secure-life-hospital-analytics/
