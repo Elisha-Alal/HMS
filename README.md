@@ -7,7 +7,7 @@
 
 ---
 
-## 📋 Executive Summary
+## Executive Summary
 
 Secure Life General Hospital recorded **1,000 patient visits** between January 2024 and December 2025 and billed a total of **$8.05 million**. About **$3.48 million (43.3%)** of that amount belongs to bills that are still **Pending** or only **Partially Paid**. This report studies the hospital’s admission, billing, and insurance records and presents the results in an Excel dashboard so that management can see how the hospital is performing and where action is needed.
 
@@ -26,7 +26,7 @@ Secure Life General Hospital recorded **1,000 patient visits** between January 2
 
 ---
 
-## 🏥 Project Background & Problem Statement
+## Project Background & Problem Statement
 
 Secure Life General Hospital treats patients across six clinical departments: **Cardiology, Emergency, General, Neurology, Orthopedics, and Pediatrics**. Management observed shifts in patient admissions, a growing number of unpaid medical bills, and uneven insurance coverage across departments, lacking a single consolidated view of day-to-day operational and financial performance.
 
@@ -48,7 +48,7 @@ As the Data Analyst, my objective was to transform the raw admission, billing, a
 
 ---
 
-## 🗂️ About the Dataset & Data Quality Checks
+## About the Dataset & Data Quality Checks
 
 The dataset comprises **1,000 patient visit records** and **11 core fields** with zero missing values.
 
@@ -68,7 +68,7 @@ Five calculated fields were built from the raw dataset to support dashboarding a
 
 ---
 
-## ⚙️ Tools, Methodology & Key Definitions
+## Tools, Methodology & Key Definitions
 
 ### 4-Step Excel Workflow
 1. **Extract & Validate:** Loaded raw records into Excel, verified structural integrity, paired alternating patient/billing blocks row-by-row, and confirmed diagnosis-to-department mapping.
@@ -83,7 +83,7 @@ Five calculated fields were built from the raw dataset to support dashboarding a
 
 ---
 
-## 📊 Detailed Analysis & Answers to Management Questions
+## Detailed Analysis & Answers to Management Questions
 
 ### 1. Patient Visits Overview
 * **Total Visits:** **1,000 visits** recorded between January 2024 and December 2025 (**512 female**, **488 male**).
@@ -154,21 +154,21 @@ General drives patient volume, whereas Orthopedics and Cardiology drive hospital
 
 ### 10. Priority Areas Requiring Management Attention
 
-* **🔴 High Priority:**
+* ** High Priority:**
   * **$3.48M Unsettled Billing:** 43.3% of total billed value is not yet fully settled, compounded by the Q4 2025 spike in pending bills (33.8%).
   * **Two-Department Revenue Dependence:** Orthopedics and Cardiology generate 57.7% of revenue, with Orthopedics alone holding $1.10M in unsettled bills.
   * **Low-Coverage Payment Risk:** Uninsured visits (0% cover) have only a 27% full payment rate versus 67% for patients with $\ge 90\%$ cover.
   * **Departmental Collection Gaps:** Pediatrics has the highest pending rate (28.8%), while General has the lowest paid share (53.2%) and highest unsettled value share (49.6%).
-* **🟡 Medium Priority:**
+* ** Medium Priority:**
   * **Extended Inpatient Stays:** Long stays in Orthopedics (8.4 days) and Neurology (6.9 days) drive high bills and increase revenue at risk.
   * **High-Value Invoices:** 85 bills of $20,000 or more represent **27% of total hospital revenue ($2.21M)**, and 35 of them are not fully paid.
-* **🟢 Keep Watching:**
+* ** Keep Watching:**
   * **2025 Volume Dip:** Slight year-over-year contraction in admissions (-3.1%) and billing (-5.1%).
   * **Underperforming Diagnoses:** Weak collection on Neuropathy, Bronchitis, and Dehydration; low coverage on Asthma and Arrhythmia.
 
 ---
 
-## 📈 Excel Dashboard Overview
+##  Excel Dashboard Overview
 
 The interactive Excel dashboard consolidates all metrics onto one executive view, equipped with dynamic slicers for **Department**, **Admission Date**, and **Diagnosis**.
 
@@ -184,7 +184,7 @@ The interactive Excel dashboard consolidates all metrics onto one executive view
 
 ---
 
-## 🎯 Actionable Recommendations (Ranked by Financial Impact)
+##  Actionable Recommendations (Ranked by Financial Impact)
 
 1. **Audit Aging Unpaid Bills:** Prioritize follow-up on the $3.48M unsettled balance, starting with Orthopedics and Cardiology invoices over $10,000 and the Q4 2025 backlog. *(Expected Benefit: Faster cash recovery)*
 2. **Verify Insurance & Pre-Authorize at Admission:** Confirm coverage upfront, secure pre-authorization for high-cost procedures, and set up structured payment plans for patients with 0%–60% cover. *(Expected Benefit: Reduced unpaid patient shares)*
@@ -197,7 +197,7 @@ The interactive Excel dashboard consolidates all metrics onto one executive view
 
 ---
 
-## ⚠️ Limitations & Lessons Learned
+##  Limitations & Lessons Learned
 
 * **Upper-Limit Receivables:** Because partial payment amounts collected are not logged, the $3.48M unsettled figure represents the maximum potential unpaid balance.
 * **Coverage vs. Claim Payout:** Recorded insurance coverage % reflects policy terms rather than verified insurer payouts.
@@ -206,7 +206,7 @@ The interactive Excel dashboard consolidates all metrics onto one executive view
 
 ---
 
-## 📁 Suggested Repository Structure
+## Suggested Repository Structure
 
 ```text
 secure-life-hospital-analytics/
