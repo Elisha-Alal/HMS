@@ -3,6 +3,7 @@
 [![Excel](https://img.shields.io/badge/Microsoft_Excel-Data_Analysis_&_Dashboard-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)]()
 [![Domain](https://img.shields.io/badge/Domain-Healthcare_Analytics-blue?style=for-the-badge)]()
+[![Contact](https://img.shields.io/badge/Email-elal.o.wilsons@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elal.o.wilsons@gmail.com)
 
 ---
 
